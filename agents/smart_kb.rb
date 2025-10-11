@@ -15,41 +15,125 @@ def get_json(result)
 end
 
 def chunk_content(content, max_chars = 4000)
+  # 如果内容长度小于max_chars，则整篇返回
   return [content] if content.length <= max_chars
 
-  chunks = []
-  current_chunk = ""
+  # 按照markdown的语法分段
+  chunks = split_by_markdown_headers(content, max_chars)
 
-  # Split by paragraphs first
-  paragraphs = content.split(/\n\n+/)
-
-  paragraphs.each do |paragraph|
-    if current_chunk.length + paragraph.length + 2 <= max_chars
-      current_chunk += paragraph + "\n\n"
+  # 如果按markdown分段后仍然有超过max_chars的块，则进一步分片
+  final_chunks = []
+  chunks.each do |chunk|
+    if chunk.length <= max_chars
+      final_chunks << chunk
     else
-      if current_chunk.length > 0
-        chunks << current_chunk.strip
-        current_chunk = ""
-      end
-
-      # If a single paragraph is too long, split by sentences
-      if paragraph.length > max_chars
-        sentences = paragraph.split(/(?<=[.!?])\s+/)
-        sentences.each do |sentence|
-          if current_chunk.length + sentence.length + 1 <= max_chars
-            current_chunk += sentence + " "
-          else
-            chunks << current_chunk.strip if current_chunk.length > 0
-            current_chunk = sentence + " "
-          end
-        end
-      else
-        current_chunk = paragraph + "\n\n"
-      end
+      # 按max_chars大小分片，且各片之间保留100的重叠内容
+      final_chunks += split_with_overlap(chunk, max_chars, 100)
     end
   end
 
-  chunks << current_chunk.strip if current_chunk.length > 0
+  final_chunks
+end
+
+# 按照markdown标题分段
+def split_by_markdown_headers(content, max_chars)
+  # 定义标题级别
+  headers = ["#", "##", "###", "####"]
+  # 创建正则表达式匹配标题
+  header_pattern = /^(#{headers.join("|")})\s+.+$/m
+
+  # 找到所有标题的位置
+  matches = content.enum_for(:scan, header_pattern).map { Regexp.last_match }
+
+  # 如果没有找到标题，返回原内容
+  return [content] if matches.empty?
+
+  chunks = []
+  last_index = 0
+
+  matches.each_with_index do |match, index|
+    # 获取当前标题的内容（到下一个标题或结尾）
+    start_index = match.begin(0)
+    end_index = if index + 1 < matches.length
+        matches[index + 1].begin(0)
+      else
+        content.length
+      end
+
+    # 如果不是从开头开始，添加从上一个标题到当前标题的内容
+    if last_index < start_index
+      section = content[last_index...start_index]
+      chunks << section unless section.strip.empty?
+    end
+
+    # 添加当前标题及其内容
+    section = content[start_index...end_index]
+    chunks << section
+    last_index = end_index
+  end
+
+  # 添加最后一部分（如果有的话）
+  if last_index < content.length
+    section = content[last_index..-1]
+    chunks << section unless section.strip.empty?
+  end
+
+  chunks
+end
+
+# 按指定大小分片，且各片之间保留重叠内容
+def split_with_overlap(content, max_chars, overlap)
+  chunks = []
+  start_index = 0
+
+  while start_index < content.length
+    # 计算理想结束索引
+    ideal_end_index = start_index + max_chars
+    ideal_end_index = content.length if ideal_end_index > content.length
+
+    # 初始化实际结束索引
+    end_index = ideal_end_index
+
+    # 如果不是在内容末尾，尝试找到最近的换行符
+    if ideal_end_index < content.length
+      # 在理想结束位置附近查找换行符
+      search_start = [ideal_end_index - 200, start_index].max
+      search_end = [ideal_end_index + 200, content.length].min
+      substring = content[search_start...search_end]
+
+      # 查找最接近理想位置的换行符
+      best_newline = -1
+      substring.scan(/\n/) do
+        pos = search_start + $~.begin(0)
+        if pos <= ideal_end_index
+          best_newline = pos
+        else
+          # 如果已经超过了理想位置，就使用找到的最佳位置
+          break if best_newline != -1
+        end
+      end
+
+      # 如果找到了换行符，调整结束位置
+      if best_newline != -1 && best_newline > start_index
+        end_index = best_newline + 1  # 包含换行符
+      end
+    end
+
+    # 确保不会超出内容长度
+    end_index = content.length if end_index > content.length
+
+    # 提取分片
+    chunk = content[start_index...end_index]
+    chunks << chunk
+
+    # 如果已经到结尾，退出循环
+    break if end_index >= content.length
+
+    # 计算下一个分片的起始位置（保留重叠）
+    start_index = end_index - overlap
+    start_index = 0 if start_index < 0  # 确保不会为负数
+  end
+
   chunks
 end
 
@@ -344,6 +428,7 @@ SmartAgent::Agent.define :smart_kb do
         show_log "下载失败: #{e.message}"
       end
     end
+    show_log "已经下载所有文档。"
   else
     show_log "请输入正确的命令"
   end

@@ -4,7 +4,10 @@ def find_new_contents(query_processor, short_memory, query_text)
   results.each do |r|
     unless short_memory.find_mem(r[:url])
       short_memory.add_mem(r[:url], r[:content])
-      contents << r[:content]
+      contents << {
+        :url => r[:url],
+        :content => r[:content],
+      }
     end
   end
   return contents
@@ -17,7 +20,10 @@ def find_contents(query_processor, short_memory, query_text)
     unless short_memory.find_mem(r[:url])
       short_memory.add_mem(r[:url], r[:content])
     end
-    contents << short_memory.find_mem(r[:url])
+    contents << {
+      :url => r[:url],
+      :content => short_memory.find_mem(r[:url]),
+    }
   end
   return contents
 end
@@ -220,6 +226,9 @@ SmartAgent.define :smart_writer do
     show_log "write_all / wa          根据 outline.json 生成完整文章"
     show_log "rewrite [章节ID] [指令]  重写指定章节"
     show_log "  示例: rewrite 1. 请用更专业的语言重写这个章节"
+    show_log "format                  重新调整脚注的格式"
+    show_log "sa                      显示整篇文章"
+    show_log "sa [章节ID]             显示文章的特定章节"
   elsif input.downcase.start_with?("outline ")
     query_text = input[7..-1].strip
     generate_outline(query_text, query_processor, short_memory)
@@ -258,6 +267,43 @@ SmartAgent.define :smart_writer do
     else
       show_log "用法: rewrite [章节ID] [指令]"
     end
+  elsif input.downcase == "format"
+    if File.exist?("reports/outline.json")
+      format("reports/outline.json")
+    else
+      show_log "提纲文件不存在"
+    end
+  elsif input.downcase == "sa"
+    if File.exist?("reports/outline.json")
+      outline_json = JSON.parse(File.read("reports/outline.json"))
+      file_name = "reports/" + outline_json["article"]["file"]
+      content = File.read(file_name)
+      show_log("\n" + content)
+    end
+  elsif input.downcase.start_with?("sa ")
+    if File.exist?("reports/outline.json")
+      outline_json = JSON.parse(File.read("reports/outline.json"))
+      file_name = "reports/" + outline_json["article"]["file"]
+      content = File.read(file_name)
+      chapter_list = outline_json["outline"]
+      id = input[3..-1]
+      if chapter_list[id]
+        chapter_title = chapter_list[id]["title"]
+        title_pos = content.index(chapter_title)
+        if title_pos
+          end_pos = content.index("\n##", title_pos)
+          if end_pos
+            chapter_text = content[title_pos...end_pos]
+          else
+            # 如果是最后一个章节，取到文件末尾
+            chapter_text = content[title_pos..-1]
+          end
+          show_log("\n" + chapter_text)
+        end
+      else
+        show_log("章节不存在")
+      end
+    end
   else
     show_log "请输入正确的命令，使用 'h' 查看帮助"
   end
@@ -267,3 +313,156 @@ SmartAgent.build_agent(
   :smart_writer,
   tools: [:modify_file],
 )
+
+def parse_chapter(chapter_text)
+  # 分离正文和脚注
+  main_content = ""
+  footnotes = []
+
+  lines = chapter_text.split("\n")
+  in_footnotes = false
+
+  lines.each do |line|
+    # 检测脚注开始（以 [^数字]: 开头的行）
+    if line =~ /^\[\^(\d+)\]:\s*(.+)$/
+      in_footnotes = true
+      footnote_id = $1.to_i
+      footnote_content = $2.strip
+
+      # 解析脚注内容，提取URL和标题
+      if footnote_content =~ /(.+)\s+-\s+(https?:\/\/\S+)/
+        title = $1.strip
+        url = $2.strip
+      else
+        # 如果没有明确的URL格式，将整个内容作为标题
+        title = footnote_content
+        url = ""
+      end
+
+      footnotes << {
+        "url" => url,
+        "title" => title,
+        "id" => footnote_id,
+      }
+    elsif in_footnotes
+      # 如果已经在脚注区域，继续收集脚注内容
+      if line.strip.empty?
+        # 空行可能表示脚注结束
+        in_footnotes = false
+      else
+        # 将多行脚注内容合并到最后一个脚注的标题中
+        if footnotes.any?
+          footnotes.last["title"] += " " + line.strip
+        end
+      end
+    else
+      # 正文内容
+      main_content += line + "\n"
+    end
+  end
+
+  # 清理正文末尾的空白行
+  main_content.strip!
+
+  {
+    "content" => main_content,
+    "footnotes" => footnotes,
+  }
+end
+
+def renote_content(result, all_footnotes)
+  content = result["content"]
+  footnotes = result["footnotes"]
+
+  # 创建一个映射表，用于存储原始脚注ID到新all_id的映射
+  footnote_mapping = {}
+
+  # 遍历所有脚注
+  footnotes.each do |footnote|
+    original_id = footnote["id"]
+    url = footnote["url"]
+
+    if url.empty?
+      # 如果URL为空，删除这个脚注 - 在映射表中标记为nil
+      footnote_mapping[original_id] = nil
+    else
+      # 如果URL不为空，在all_footnotes中查找对应的all_id
+      if all_footnotes[url] && all_footnotes[url]["all_id"]
+        new_id = all_footnotes[url]["all_id"]
+        footnote_mapping[original_id] = new_id
+      else
+        # 如果没有找到对应的all_id，也删除这个脚注
+        footnote_mapping[original_id] = nil
+      end
+    end
+  end
+
+  # 替换content中的脚注引用
+  footnote_mapping.each do |original_id, new_id|
+    if new_id.nil?
+      # 删除脚注引用
+      content = content.gsub(/\[\^#{original_id}\]/, "")
+    else
+      # 替换为新的all_id
+      content = content.gsub(/\[\^#{original_id}\]/, "【^#{new_id}】")
+    end
+  end
+
+  content = content.gsub("【", "[")
+  content = content.gsub("】", "]")
+
+  # 清理可能出现的多余空格
+  #content = content.gsub(/\s+/, " ").strip
+
+  content
+end
+
+def format(json_file)
+  outline = JSON.parse(File.read(json_file))
+  markdown_file = "reports/" + outline["article"]["file"]
+  new_markdown_file = markdown_file.gsub(".md", ".new.md")
+  all_footnotes = {}
+  all_id = 1
+  content = File.read(markdown_file)
+  chapter_list = outline["outline"]
+  parsed_chapters = ""
+
+  chapter_list.each do |id, info|
+    title = info["title"]
+    title_pos = content.index(title)
+    if title_pos
+      end_pos = content.index("\n##", title_pos)
+      if end_pos
+        chapter_text = content[title_pos...end_pos]
+      else
+        # 如果是最后一个章节，取到文件末尾
+        chapter_text = content[title_pos..-1]
+      end
+
+      result = parse_chapter(chapter_text)
+      result["footnotes"].each do |footnote|
+        unless footnote["url"].empty?
+          url = footnote["url"]
+          unless all_footnotes[url]
+            all_footnotes[url] = footnote
+            all_footnotes[url]["all_id"] = all_id
+            all_id += 1
+          else
+            if all_footnotes[url]["title"].size < footnote["title"].size
+              all_footnotes[url]["title"] = footnote["title"]
+            end
+          end
+        end
+      end
+      result["content"] = renote_content(result, all_footnotes)
+      parsed_chapters += result["content"] + "\n\n"
+    end
+  end
+  all_footnotes.each do |url, info|
+    parsed_chapters += "[^#{info["all_id"]}]: #{info["title"]} - #{info["url"]}\n"
+  end
+  # 输出解析结果到新文件
+  File.write(new_markdown_file, parsed_chapters)
+
+  show_log "解析完成！结果已保存到: #{new_markdown_file}"
+end

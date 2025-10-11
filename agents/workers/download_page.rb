@@ -150,7 +150,7 @@ class HtmlDownloader
     file.puts html
     file.close
     temp_md_file = Tempfile.new(["document", ".md"])
-    system("markitdown #{temp_file.path} -o #{temp_md_file.path} >/dev/null 2>&1")
+    system("html_to_markdown #{temp_file.path} > #{temp_md_file.path}")
     # 读取转换后的markdown内容
     text = File.read(temp_md_file.path)
     # 删除临时文件
