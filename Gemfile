@@ -8,6 +8,7 @@ gem "colorize" # For colored terminal output
 gem "ruby_rich"
 gem "tty-cursor"
 gem "tty-screen"
+gem "unicode-display_width"
 gem "redcarpet"
 gem "smart_prompt"
 gem "better_prompt"
