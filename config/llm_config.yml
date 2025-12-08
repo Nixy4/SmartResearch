@@ -5,6 +5,22 @@ better_prompt_db: ./db/prompt.db
 database:
   docs: postgres://docs:ment@localhost/docs
 llms:
+  isyscore:
+    adapter: openai
+    url: http://120.133.75.248:39095/v1/
+    api_key: sk-48DAsw-494SY957qd25I2Q
+    default_model: qwen3-next
+  isyscore_embedding:
+    adapter: openai
+    url: http://120.133.75.248:39095/v1/
+    api_key: sk-48DAsw-494SY957qd25I2Q
+    default_model: qwen3-embedding
+  isyscore_vision:
+    adapter: openai
+    url: http://120.133.75.248:39095/v1/
+    api_key: sk-48DAsw-494SY957qd25I2Q
+    default_model: glm-4.5v
+    
   SiliconFlow:
     adapter: openai
     url: https://api.siliconflow.cn/v1/
@@ -30,6 +46,6 @@ llms:
     adapter: openai
     url: https://router.shengsuanyun.com/api/v1
     api_key: ENV["SSYKEY"]
-default_llm: SiliconFlow
+default_llm: isyscore
 worker_path: "./agents/workers"
 template_path: "./agents/templates"

@@ -299,3 +299,1257 @@ I, [2025-12-08T13:59:10.685820 #26448]  INFO -- : Start create the SmartPrompt L
 I, [2025-12-08T13:59:10.685829 #26448]  INFO -- : Successful creation an OpenAI client.
 I, [2025-12-08T13:59:10.686034 #26448]  INFO -- : Configuration loaded successfully
 I, [2025-12-08T13:59:10.686054 #26448]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:43:11.483797 #35911]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:43:11.484143 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.484210 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.484218 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.484227 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.484232 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.484239 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.484243 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.484256 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.484260 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.484270 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.484274 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.484284 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.595251 #35911]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:43:11.595310 #35911]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:43:11.596009 #35911]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:43:11.596043 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.596087 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.596113 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.596125 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.596130 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.596136 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.596141 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.596153 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.596158 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.596168 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.596172 #35911]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:43:11.596182 #35911]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:43:11.596466 #35911]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:43:11.596493 #35911]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:44:33.951469 #36306]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:44:33.951548 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:33.951595 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:33.951602 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:33.951610 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:33.951615 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:33.951621 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:33.951625 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:33.951638 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:33.951642 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:33.951652 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:33.951656 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:33.951667 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:34.005927 #36306]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:44:34.005993 #36306]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:44:34.006334 #36306]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:44:34.006377 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:34.006411 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:34.006418 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:34.006426 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:34.006431 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:34.006444 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:34.006452 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:34.006465 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:34.006470 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:34.006481 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:34.006485 #36306]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:44:34.006495 #36306]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:44:34.006751 #36306]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:44:34.006777 #36306]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:45:57.906216 #37122]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:45:57.906572 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:57.906654 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:57.906687 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:57.906702 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:57.906707 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:57.906715 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:57.906719 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:57.906734 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:57.906738 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:57.906749 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:57.906753 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:57.906763 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:58.042825 #37122]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:45:58.042890 #37122]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:45:58.043509 #37122]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:45:58.043560 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:58.043605 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:58.043611 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:58.043620 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:58.043624 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:58.043631 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:58.043635 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:58.043650 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:58.043654 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:58.043664 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:58.043668 #37122]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:45:58.043679 #37122]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:45:58.043920 #37122]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:45:58.043944 #37122]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:46:43.309836 #37356]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:46:43.309942 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.309998 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.310005 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.310014 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.310019 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.310026 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.310031 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.310043 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.310047 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.310058 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.310062 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.310131 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.366818 #37356]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:46:43.366880 #37356]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:46:43.367179 #37356]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:46:43.367213 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.367249 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.367274 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.367286 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.367291 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.367298 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.367303 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.367315 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.367320 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.367329 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.367333 #37356]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:46:43.367343 #37356]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:46:43.367633 #37356]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:46:43.367675 #37356]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:48:23.557504 #37862]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:48:23.557579 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.557630 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.557637 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.557646 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.557650 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.557657 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.557661 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.557673 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.557678 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.557688 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.557692 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.557702 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.613660 #37862]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:48:23.613723 #37862]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:48:23.614016 #37862]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:48:23.614049 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.614081 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.614097 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.614120 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.614125 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.614133 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.614137 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.614150 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.614154 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.614164 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.614168 #37862]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:48:23.614178 #37862]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:48:23.614444 #37862]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:48:23.614471 #37862]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:51:14.867096 #38567]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:51:14.867174 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.867231 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.867255 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.867266 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.867271 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.867277 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.867281 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.867295 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.867299 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.867309 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.867313 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.867324 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.980495 #38567]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:51:14.980573 #38567]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T14:51:14.980899 #38567]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T14:51:14.980937 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.980981 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.980998 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.981012 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.981017 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.981027 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.981031 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.981043 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.981047 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.981075 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.981081 #38567]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T14:51:14.981093 #38567]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T14:51:14.981318 #38567]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:51:14.981340 #38567]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:00:38.544075 #40517]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:00:38.544161 #40517]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:00:38.544194 #40517]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:00:38.544201 #40517]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:00:38.544209 #40517]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:00:38.544213 #40517]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:00:38.544219 #40517]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:00:38.613939 #40517]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:00:38.614003 #40517]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:00:38.614368 #40517]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:00:38.614411 #40517]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:00:38.614434 #40517]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:00:38.614439 #40517]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:00:38.614446 #40517]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:00:38.614450 #40517]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:00:38.614457 #40517]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:00:38.614702 #40517]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:00:38.614729 #40517]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:01:04.005325 #40712]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:01:04.005409 #40712]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:01:04.005449 #40712]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:01:04.005455 #40712]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:01:04.005462 #40712]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:01:04.005466 #40712]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:01:04.005472 #40712]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:01:04.064528 #40712]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:01:04.064698 #40712]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:01:04.065063 #40712]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:01:04.065105 #40712]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:01:04.065133 #40712]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:01:04.065138 #40712]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:01:04.065146 #40712]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:01:04.065150 #40712]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:01:04.065156 #40712]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:01:04.065389 #40712]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:01:04.065417 #40712]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:20:15.654540 #44717]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:20:15.654920 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655039 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655107 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655123 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655128 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655136 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655140 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655197 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655209 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655224 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655230 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655242 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655247 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655311 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655320 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655327 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.655332 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.655339 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.769962 #44717]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:20:15.770026 #44717]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:20:15.770404 #44717]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:20:15.770447 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770488 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770505 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770517 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770531 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770538 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770566 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770585 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770591 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770602 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770606 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770617 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770621 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770628 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770632 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770638 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770642 #44717]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:15.770647 #44717]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:15.770883 #44717]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:20:15.770905 #44717]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:20:50.575928 #44937]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:20:50.576018 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576069 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576076 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576084 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576089 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576096 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576100 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576112 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576117 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576126 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576130 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576140 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576144 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576151 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576155 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576161 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.576165 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.576171 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636057 #44937]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:20:50.636133 #44937]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:20:50.636482 #44937]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:20:50.636520 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636568 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636576 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636585 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636590 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636597 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636602 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636617 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636621 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636695 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636706 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636720 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636726 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636734 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636844 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636871 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.636880 #44937]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:20:50.636887 #44937]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:20:50.637169 #44937]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:20:50.637192 #44937]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:22:07.613978 #45489]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:22:07.614082 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614138 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614146 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614156 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614161 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614168 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614172 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614184 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614189 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614199 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614204 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614213 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614217 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614224 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614228 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614234 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.614238 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.614244 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.671488 #45489]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:22:07.671574 #45489]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:22:07.672044 #45489]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:22:07.672093 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672135 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672142 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672150 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672155 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672162 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672167 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672185 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672190 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672200 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672205 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672215 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672219 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672263 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672272 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672280 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672285 #45489]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:07.672292 #45489]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:07.672793 #45489]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:22:07.672903 #45489]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:22:19.395518 #45594]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:22:19.395606 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395661 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395667 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395679 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395683 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395690 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395694 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395707 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395711 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395722 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395726 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395737 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395741 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395747 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395751 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395757 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.395761 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.395767 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457007 #45594]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:22:19.457074 #45594]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:22:19.457487 #45594]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:22:19.457527 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457562 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457568 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457575 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457579 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457585 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457589 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457602 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457606 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457616 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457620 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457629 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457633 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457639 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457642 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457648 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457652 #45594]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:22:19.457667 #45594]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:22:19.457898 #45594]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:22:19.457921 #45594]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:23:29.559898 #45943]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:23:29.560042 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560103 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560112 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560122 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560127 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560134 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560138 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560152 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560157 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560182 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560192 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560209 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560215 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560223 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560228 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560235 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.560240 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.560246 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.673851 #45943]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:23:29.673917 #45943]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:23:29.674632 #45943]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:23:29.674673 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674726 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674747 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674759 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674765 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674772 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674777 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674789 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674794 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674804 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674808 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674817 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674822 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674828 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674832 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674838 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.674842 #45943]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:23:29.674849 #45943]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:23:29.675080 #45943]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:23:29.675105 #45943]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:26:28.253172 #46748]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:26:28.253495 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.253586 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.253609 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.253624 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.253629 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.253638 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.253643 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.253657 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.253663 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.253679 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.253684 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.253694 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.386176 #46748]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:26:28.386242 #46748]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:26:28.386860 #46748]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:26:28.386906 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.386944 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.386950 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.386958 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.386963 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.386969 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.386973 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.386985 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.386989 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.386998 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.387003 #46748]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:26:28.387012 #46748]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:26:28.387240 #46748]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:26:28.387264 #46748]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:32:01.167635 #48033]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:32:01.167716 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.167771 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.167780 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.167790 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.167995 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.168014 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.168020 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.168079 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.168097 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.168150 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.168171 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.168190 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.238207 #48033]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:32:01.238287 #48033]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:32:01.238747 #48033]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:32:01.238796 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.238845 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.238864 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.238877 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.238883 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.238890 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.238894 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.238908 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.238912 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.238923 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.238927 #48033]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:32:01.238937 #48033]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:32:01.239193 #48033]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:32:01.239214 #48033]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:33:55.916436 #48569]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:33:55.916547 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.916685 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.916735 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.916778 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.916786 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.916794 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.916799 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.916831 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.916854 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.916878 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.916885 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.916897 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.988603 #48569]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:33:55.988671 #48569]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:33:55.989000 #48569]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:33:55.989041 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.989080 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.989100 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.989112 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.989118 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.989125 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.989130 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.989144 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.989149 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.989163 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.989167 #48569]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:33:55.989177 #48569]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:33:55.989452 #48569]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:33:55.989483 #48569]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:33:58.688670 #48569]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"hello", :with_history=>true}
+I, [2025-12-08T15:33:58.688684 #48569]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:33:58.688692 #48569]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:33:58.688704 #48569]  INFO -- : Create Conversation
+I, [2025-12-08T15:33:58.688939 #48569]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:33:58.689353 #48569]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:33:58.689383 #48569]  INFO -- : OpenAIAdapter: Using model deepseek-reasoner
+E, [2025-12-08T15:33:58.854290 #48569] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:33:58.854368 #48569]  INFO -- : Successful send a message
+I, [2025-12-08T15:33:58.854390 #48569]  INFO -- : Worker analyze_search_scope executed(stream) successfully
+I, [2025-12-08T15:34:39.801689 #48769]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:34:39.801785 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.801844 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.801852 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.801861 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.801866 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.801873 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.801877 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.801892 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.801896 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.801910 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.801915 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.801925 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.870786 #48769]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:34:39.870859 #48769]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:34:39.871224 #48769]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:34:39.871267 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.871307 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.871326 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.871338 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.871344 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.871353 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.871358 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.871375 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.871380 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.871391 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.871395 #48769]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:34:39.871405 #48769]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:34:39.871644 #48769]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:34:39.871666 #48769]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:34:42.308256 #48769]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"hello", :with_history=>true}
+I, [2025-12-08T15:34:42.308264 #48769]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:34:42.308272 #48769]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:34:42.308283 #48769]  INFO -- : Create Conversation
+I, [2025-12-08T15:34:42.308322 #48769]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:34:42.308673 #48769]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:34:42.308705 #48769]  INFO -- : OpenAIAdapter: Using model deepseek-reasoner
+E, [2025-12-08T15:34:42.461355 #48769] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:34:42.461466 #48769]  INFO -- : Successful send a message
+I, [2025-12-08T15:34:42.461494 #48769]  INFO -- : Worker analyze_search_scope executed(stream) successfully
+I, [2025-12-08T15:35:34.711136 #49080]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:35:34.711227 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.711321 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.711342 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.711355 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.711360 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.711367 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.711372 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.711397 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.711403 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.711420 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.711425 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.711434 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.780008 #49080]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:35:34.780077 #49080]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:35:34.780394 #49080]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:35:34.780432 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.780496 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.780505 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.780515 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.780519 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.780526 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.780530 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.780548 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.780803 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.780850 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.780869 #49080]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:35:34.780887 #49080]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:35:34.781160 #49080]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:35:34.781182 #49080]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:35:45.334193 #49080]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"hello", :with_history=>true}
+I, [2025-12-08T15:35:45.334206 #49080]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:35:45.334215 #49080]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:35:45.334228 #49080]  INFO -- : Create Conversation
+I, [2025-12-08T15:35:45.334260 #49080]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:35:45.334614 #49080]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:35:45.334647 #49080]  INFO -- : OpenAIAdapter: Using model deepseek-reasoner
+E, [2025-12-08T15:35:45.492051 #49080] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:35:45.492179 #49080]  INFO -- : Successful send a message
+I, [2025-12-08T15:35:45.492213 #49080]  INFO -- : Worker analyze_search_scope executed successfully
+I, [2025-12-08T15:37:11.748240 #49656]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:37:11.748319 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.748396 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.748404 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.748413 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.748418 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.748424 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.748429 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.748441 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.748445 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.748457 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.748462 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.748479 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.814314 #49656]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:37:11.814518 #49656]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:37:11.814946 #49656]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:37:11.814989 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.815059 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.815066 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.815075 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.815080 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.815087 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.815092 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.815104 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.815108 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.815120 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.815124 #49656]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:37:11.815134 #49656]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:37:11.815407 #49656]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:37:11.815444 #49656]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:37:19.936991 #49656]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"hello", :with_history=>true}
+I, [2025-12-08T15:37:19.937000 #49656]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:37:19.937009 #49656]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:37:19.937031 #49656]  INFO -- : Create Conversation
+I, [2025-12-08T15:37:19.937066 #49656]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:37:19.937492 #49656]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:37:19.937532 #49656]  INFO -- : OpenAIAdapter: Using model deepseek-reasoner
+E, [2025-12-08T15:37:20.083515 #49656] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:37:20.083621 #49656]  INFO -- : Successful send a message
+I, [2025-12-08T15:37:20.083654 #49656]  INFO -- : Worker analyze_search_scope executed successfully
+I, [2025-12-08T15:37:20.685829 #49656]  INFO -- : Calling worker: pre_search with params: {:text=>"根据以下分析进行初步搜索：Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:37:20.685967 #49656]  INFO -- : Creating worker instance for: pre_search
+I, [2025-12-08T15:37:20.685988 #49656]  INFO -- : Create worker's name is pre_search
+I, [2025-12-08T15:37:20.686008 #49656]  INFO -- : Create Conversation
+I, [2025-12-08T15:37:20.686051 #49656]  INFO -- : Use template pre_search
+I, [2025-12-08T15:37:20.686505 #49656]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:37:20.686551 #49656]  INFO -- : OpenAIAdapter: Using model deepseek-reasoner
+E, [2025-12-08T15:37:20.856743 #49656] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:37:20.856853 #49656]  INFO -- : Successful send a message
+I, [2025-12-08T15:37:20.856882 #49656]  INFO -- : Worker pre_search executed successfully
+I, [2025-12-08T15:37:21.460004 #49656]  INFO -- : Calling worker: smart_search with params: {:text=>"Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:37:21.460118 #49656]  INFO -- : Creating worker instance for: smart_search
+I, [2025-12-08T15:37:21.460134 #49656]  INFO -- : Create worker's name is smart_search
+I, [2025-12-08T15:37:21.460146 #49656]  INFO -- : Create Conversation
+I, [2025-12-08T15:37:21.460175 #49656]  INFO -- : Use template smart_search
+I, [2025-12-08T15:37:21.460446 #49656]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:37:21.460476 #49656]  INFO -- : OpenAIAdapter: Using model deepseek-chat
+E, [2025-12-08T15:37:21.613182 #49656] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:37:21.613319 #49656]  INFO -- : Successful send a message
+I, [2025-12-08T15:37:21.613352 #49656]  INFO -- : Worker smart_search executed successfully
+I, [2025-12-08T15:37:21.614268 #49656]  INFO -- : Calling worker: summary with params: {:text=>"hello", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:37:21.614333 #49656]  INFO -- : Creating worker instance for: summary
+I, [2025-12-08T15:37:21.614352 #49656]  INFO -- : Create worker's name is summary
+I, [2025-12-08T15:37:21.614369 #49656]  INFO -- : Create Conversation
+I, [2025-12-08T15:37:21.614408 #49656]  INFO -- : Use template summarize
+I, [2025-12-08T15:37:21.614917 #49656]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:37:21.614970 #49656]  INFO -- : OpenAIAdapter: Using model moonshotai/Kimi-K2-Instruct
+E, [2025-12-08T15:37:21.812824 #49656] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.siliconflow.cn/v1/chat/completions
+I, [2025-12-08T15:37:21.812937 #49656]  INFO -- : Successful send a message
+I, [2025-12-08T15:37:21.812966 #49656]  INFO -- : Worker summary executed successfully
+I, [2025-12-08T15:39:42.387225 #50401]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:39:42.387300 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387374 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387385 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387571 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387608 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387622 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387628 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387695 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387722 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387734 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387740 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387746 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387751 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387764 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387768 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387778 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.387782 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.387791 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.459968 #50401]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:39:42.460038 #50401]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:39:42.460397 #50401]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:39:42.460437 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460459 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460464 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460471 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460479 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460500 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460507 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460530 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460547 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460573 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460579 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460587 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460591 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460604 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460609 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460618 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460622 #50401]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:39:42.460632 #50401]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:39:42.460878 #50401]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:39:42.460903 #50401]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:40:06.422408 #50608]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:40:06.422477 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422514 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422521 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422529 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422534 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422540 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422544 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422567 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422572 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422579 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422582 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422597 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422601 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422612 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422617 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422627 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.422631 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.422640 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.492599 #50608]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:40:06.492703 #50608]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:40:06.493171 #50608]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:40:06.493216 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493240 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493245 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493253 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493257 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493264 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493268 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493296 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493301 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493308 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493312 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493319 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493322 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493334 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493338 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493348 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493353 #50608]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:40:06.493363 #50608]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:40:06.493731 #50608]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:40:06.493910 #50608]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:41:33.427922 #51011]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:41:33.428002 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428036 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428043 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428052 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428056 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428063 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428067 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428126 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428146 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428158 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428164 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428176 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428181 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428199 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428205 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428223 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.428227 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.428238 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495016 #51011]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:41:33.495091 #51011]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:41:33.495473 #51011]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:41:33.495509 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495534 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495539 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495546 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495550 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495556 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495559 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495581 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495586 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495593 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495596 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495602 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495606 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495615 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495619 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495628 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495631 #51011]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:41:33.495641 #51011]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:41:33.495874 #51011]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:41:33.495896 #51011]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:41:36.378724 #51011]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"你好", :with_history=>true}
+I, [2025-12-08T15:41:36.378733 #51011]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:41:36.378741 #51011]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:41:36.378753 #51011]  INFO -- : Create Conversation
+I, [2025-12-08T15:41:36.378786 #51011]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:41:36.379104 #51011]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:41:36.379132 #51011]  INFO -- : OpenAIAdapter: Using model deepseek-reasoner
+E, [2025-12-08T15:41:36.526336 #51011] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:41:36.526425 #51011]  INFO -- : Successful send a message
+I, [2025-12-08T15:41:36.526447 #51011]  INFO -- : Worker analyze_search_scope executed successfully
+I, [2025-12-08T15:41:37.128324 #51011]  INFO -- : Calling worker: pre_search with params: {:text=>"根据以下分析进行初步搜索：Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:41:37.128421 #51011]  INFO -- : Creating worker instance for: pre_search
+I, [2025-12-08T15:41:37.128435 #51011]  INFO -- : Create worker's name is pre_search
+I, [2025-12-08T15:41:37.128446 #51011]  INFO -- : Create Conversation
+I, [2025-12-08T15:41:37.128472 #51011]  INFO -- : Use template pre_search
+I, [2025-12-08T15:41:37.128930 #51011]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:41:37.128970 #51011]  INFO -- : OpenAIAdapter: Using model deepseek-reasoner
+E, [2025-12-08T15:41:37.295702 #51011] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:41:37.295836 #51011]  INFO -- : Successful send a message
+I, [2025-12-08T15:41:37.295868 #51011]  INFO -- : Worker pre_search executed successfully
+I, [2025-12-08T15:41:37.898335 #51011]  INFO -- : Calling worker: smart_search with params: {:text=>"Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:41:37.898485 #51011]  INFO -- : Creating worker instance for: smart_search
+I, [2025-12-08T15:41:37.898509 #51011]  INFO -- : Create worker's name is smart_search
+I, [2025-12-08T15:41:37.898527 #51011]  INFO -- : Create Conversation
+I, [2025-12-08T15:41:37.898565 #51011]  INFO -- : Use template smart_search
+I, [2025-12-08T15:41:37.898916 #51011]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:41:37.898964 #51011]  INFO -- : OpenAIAdapter: Using model deepseek-chat
+E, [2025-12-08T15:41:38.050625 #51011] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions
+I, [2025-12-08T15:41:38.050721 #51011]  INFO -- : Successful send a message
+I, [2025-12-08T15:41:38.050741 #51011]  INFO -- : Worker smart_search executed successfully
+I, [2025-12-08T15:41:38.051203 #51011]  INFO -- : Calling worker: summary with params: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:41:38.051268 #51011]  INFO -- : Creating worker instance for: summary
+I, [2025-12-08T15:41:38.051278 #51011]  INFO -- : Create worker's name is summary
+I, [2025-12-08T15:41:38.051290 #51011]  INFO -- : Create Conversation
+I, [2025-12-08T15:41:38.051313 #51011]  INFO -- : Use template summarize
+I, [2025-12-08T15:41:38.051563 #51011]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:41:38.051589 #51011]  INFO -- : OpenAIAdapter: Using model moonshotai/Kimi-K2-Instruct
+E, [2025-12-08T15:41:38.221615 #51011] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.siliconflow.cn/v1/chat/completions
+I, [2025-12-08T15:41:38.221730 #51011]  INFO -- : Successful send a message
+I, [2025-12-08T15:41:38.221757 #51011]  INFO -- : Worker summary executed successfully
+I, [2025-12-08T15:43:35.313867 #51610]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:43:35.314203 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314243 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314250 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314262 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314267 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314274 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314279 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314309 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314326 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314339 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314345 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314353 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314358 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314374 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314388 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314413 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.314420 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.314431 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.432759 #51610]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:43:35.432819 #51610]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:43:35.433466 #51610]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:43:35.433508 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433535 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433540 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433547 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433551 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433557 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433561 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433583 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433588 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433594 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433598 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433604 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433607 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433618 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433622 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433635 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433640 #51610]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:43:35.433649 #51610]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:43:35.433972 #51610]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:43:35.434006 #51610]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:43:37.833164 #51610]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"你好", :with_history=>true}
+I, [2025-12-08T15:43:37.833187 #51610]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:43:37.833198 #51610]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:43:37.833211 #51610]  INFO -- : Create Conversation
+I, [2025-12-08T15:43:37.833244 #51610]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:43:37.833565 #51610]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:43:37.833602 #51610]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:43:45.729564 #51610]  INFO -- : Successful send a message
+I, [2025-12-08T15:43:45.729649 #51610]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:43:45.729671 #51610]  INFO -- : Worker analyze_search_scope executed successfully
+I, [2025-12-08T15:43:46.331927 #51610]  INFO -- : Calling worker: pre_search with params: {:text=>"根据以下分析进行初步搜索：当然可以。以下是针对用户问题“你好”的结构化分析结果，基于您指定的四个维度进行系统性拆解：\n\n---\n\n### **1. 问题类型识别**  \n**类型：非实质性问题 / 礼节性问候**  \n\n- **分析**：  \n  “你好”是一个典型的社交性开场白，不包含具体信息需求、疑问或任务导向。它不具备事实查询、比较分析、深度研究、解决方案或观点收集的特征。  \n- **判断依据**：  \n  - 无名词、动词、数值、比较词或问题词（如“如何”“为什么”“哪个”）  \n  - 语义功能为建立沟通连接，而非获取信息  \n- **结论**：  \n  **不属于任何信息型问题类别**，属于**社交启动语**（Social Initiation Utterance）。\n\n---\n\n### **2. 搜索范围建议**  \n**建议：无需搜索**  \n\n- **广度优先**：不适用 —— 无信息目标  \n- **深度优先**：不适用 —— 无领域可深入  \n- **时效性要求**：无 —— “你好”是永恒性社交表达，无时间敏感性  \n- **权威性要求**：无 —— 不涉及事实或专业判断  \n\n> ✅ **建议行动**：**跳过搜索流程**，直接进行对话响应。若系统需“响应生成”，则应触发社交应答机制而非信息检索。\n\n---\n\n### **3. 初始关键词策略**  \n**建议：无需关键词提取或搜索语法**  \n\n- **核心关键词提取**：  \n  - “你好” → 仅有一个词，无语义歧义，无需拆分  \n- **相关概念扩展**：  \n  - 可能扩展为“问候语”“社交开场白”“中文打招呼方式”，但这些仅用于**语言学研究**，非用户真实意图  \n- **搜索语法建议**：  \n  - 无适用语法（如 `site:`, `filetype:` 等均无意义）  \n- **排除词建议**：  \n  - 无需排除，因无搜索目标  \n\n> ⚠️ 若强行搜索“你好”，可能返回：  \n> - 中文教学网站（教外国人说“你好”）  \n> - 语音识别系统测试用例  \n> - 人工智能聊天机器人训练数据  \n> —— **这些是元信息，非用户意图**\n\n---\n\n### **4. 预期搜索方向**  \n\n| 维度 | 内容 |\n|------|------|\n| **主要搜索方向** | **无** —— 用户未提出信息需求 |\n| **备选搜索方向** | 若系统误判为“语言学习”需求，可尝试：<br> - “中文日常问候语”<br> - “你好 的英文对应词”<br> - “不同文化中的打招呼方式”<br>（但需用户进一步明确意图） |\n| **风险提示** | **严重信息缺口风险**：<br> - 若系统自动启动搜索，可能返回无关内容（如“你好 世界”编程示例、语音助手教程）<br> - 误判为“事实查询”将导致**虚假相关性**，降低用户信任<br> - 建议系统应能识别**非信息性语句**，并优先触发**社交响应**而非搜索引擎 |\n\n---\n\n### ✅ **最终行动建议（为后续交互提供指导）**\n\n> **不要启动任何搜索流程**。  \n> **应直接回应社交问候**，例如：  \n> “你好！有什么我可以帮你的吗？”  \n>   \n> **系统设计建议**：  \n> - 建立“社交语句识别模块”，优先过滤“你好”“嗨”“在吗”等启动语  \n> - 在识别为社交语句后，**主动引导用户提出真实需求**  \n> - 避免对无信息意图的语句进行“过度搜索”，防止资源浪费与体验下降  \n\n---\n\n**总结**：  \n“你好”不是信息问题，而是**沟通启动信号**。最佳策略是**不搜索、响应、引导**。  \n后续应等待用户提出实质性问题，再启动对应搜索策略。\n\n如需后续分析“我想知道如何学习Python”等真实问题，请随时提供！", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:43:46.332149 #51610]  INFO -- : Creating worker instance for: pre_search
+I, [2025-12-08T15:43:46.332169 #51610]  INFO -- : Create worker's name is pre_search
+I, [2025-12-08T15:43:46.332185 #51610]  INFO -- : Create Conversation
+I, [2025-12-08T15:43:46.332223 #51610]  INFO -- : Use template pre_search
+I, [2025-12-08T15:43:46.332742 #51610]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:43:46.332777 #51610]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:43:50.498167 #51610]  INFO -- : Successful send a message
+I, [2025-12-08T15:43:50.498244 #51610]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:43:50.498263 #51610]  INFO -- : Worker pre_search executed successfully
+I, [2025-12-08T15:43:51.100753 #51610]  INFO -- : Calling worker: smart_search with params: {:text=>"由于用户输入仅为社交性问候“你好”，经分析确认为**非信息性语句**，无实质问题、无查询意图、无数据需求，因此：\n\n### ✅ **最终结论：无需执行任何搜索任务**\n\n所有四类搜索任务（搜索素材、查证信息、解决疑问、深入挖掘）均**不适用**，理由如下：\n\n- **搜索素材**：无目标信息可收集，无内容可汇总  \n- **查证信息**：无可疑陈述或事实主张需验证  \n- **解决疑问**：无明确疑问句或问题点  \n- **深入挖掘**：无线索、无上下文、无潜在方向可供延伸  \n\n---\n\n### 📌 **建议行动方案（非搜索类）**\n\n> **系统应触发社交响应机制，而非搜索流程**：  \n> **响应建议**：  \n> “你好！👋 很高兴为你服务。有什么我可以帮你的吗？比如你想了解技术趋势、比较开源项目，还是需要学习资源？随时告诉我～”\n\n---\n\n### ⚠️ **风险提示（系统设计层面）**\n\n若系统强制为“你好”生成搜索任务，将导致：\n- 资源浪费（调用无意义API）\n- 响应质量下降（返回无关结果如“你好世界”编程示例）\n- 用户体验受损（误判意图引发困惑）\n\n---\n\n### ✅ **推荐优化策略**\n\n| 类别 | 建议 |\n|------|------|\n| **对话管理** | 增设“社交语句识别器”，识别“你好”“嗨”“在吗”等，自动跳过搜索 |\n| **引导机制** | 在回应问候后，主动提供3个常见问题模板（如“想了解Python生态？”“比较GitHub和Gitee？”“查某个开源项目的活跃度？”） |\n| **性能优化** | 避免为非信息性语句调用 `smart_search`、`get_open_digger_metric` 等高成本工具 |\n\n---\n\n**综上，当前无任何搜索任务需要执行。**  \n请用户提供具体问题，我们将立即启动精准搜索策略。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:43:51.100870 #51610]  INFO -- : Creating worker instance for: smart_search
+I, [2025-12-08T15:43:51.100885 #51610]  INFO -- : Create worker's name is smart_search
+I, [2025-12-08T15:43:51.100899 #51610]  INFO -- : Create Conversation
+I, [2025-12-08T15:43:51.100930 #51610]  INFO -- : Use template smart_search
+I, [2025-12-08T15:43:51.101206 #51610]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:43:51.101237 #51610]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:43:51.380122 #51610]  INFO -- : Successful send a message
+I, [2025-12-08T15:43:51.380187 #51610]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:43:51.380203 #51610]  INFO -- : Worker smart_search executed successfully
+I, [2025-12-08T15:43:51.380617 #51610]  INFO -- : Calling worker: summary with params: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:43:51.380653 #51610]  INFO -- : Creating worker instance for: summary
+I, [2025-12-08T15:43:51.380662 #51610]  INFO -- : Create worker's name is summary
+I, [2025-12-08T15:43:51.380671 #51610]  INFO -- : Create Conversation
+I, [2025-12-08T15:43:51.380691 #51610]  INFO -- : Use template summarize
+I, [2025-12-08T15:43:51.380916 #51610]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:43:51.380940 #51610]  INFO -- : OpenAIAdapter: Using model moonshotai/Kimi-K2-Instruct
+E, [2025-12-08T15:43:51.467760 #51610] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST http://120.133.75.248:39095/v1/chat/completions
+I, [2025-12-08T15:43:51.467880 #51610]  INFO -- : Successful send a message
+I, [2025-12-08T15:43:51.467909 #51610]  INFO -- : Worker summary executed successfully
+I, [2025-12-08T15:44:43.168363 #52044]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:44:43.168439 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168475 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168482 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168490 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168501 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168508 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168512 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168621 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168644 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168656 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168662 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168669 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168673 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168687 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168691 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168701 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.168705 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.168715 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.233911 #52044]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:44:43.233983 #52044]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:44:43.234360 #52044]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:44:43.234463 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234504 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234511 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234518 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234522 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234529 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234533 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234572 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234580 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234588 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234592 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234599 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234603 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234615 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234619 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234630 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234634 #52044]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:44:43.234645 #52044]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:44:43.234961 #52044]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:44:43.234999 #52044]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:44:45.412672 #52044]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"你好，请简单回应一下", :with_history=>true}
+I, [2025-12-08T15:44:45.412680 #52044]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:44:45.412687 #52044]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:44:45.412712 #52044]  INFO -- : Create Conversation
+I, [2025-12-08T15:44:45.412740 #52044]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:44:45.413085 #52044]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:44:45.413113 #52044]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:44:52.323573 #52044]  INFO -- : Successful send a message
+I, [2025-12-08T15:44:52.323658 #52044]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:44:52.323678 #52044]  INFO -- : Worker analyze_search_scope executed successfully
+I, [2025-12-08T15:44:52.926013 #52044]  INFO -- : Calling worker: pre_search with params: {:text=>"根据以下分析进行初步搜索：当然可以。以下是对用户问题“你好，请简单回应一下”的结构化分析：\n\n---\n\n### **1. 问题类型识别**  \n**类型：社交礼仪型 / 无实质信息需求**  \n\n- 该问题不属于传统意义上的信息查询类型（如事实、比较、研究、解决方案或观点收集）。  \n- 本质为**社交开场白**，无具体信息诉求，仅期望获得礼貌性回应。  \n- 在AI交互语境中，此类问题常用于测试响应能力、建立对话氛围，或作为后续真实问题的铺垫。  \n\n> ✅ **结论**：**非信息型问题**（不属于上述五类中的任何一类），属于**人际互动模拟**范畴。\n\n---\n\n### **2. 搜索范围建议**  \n- **广度优先**：❌ 不适用。无具体主题可覆盖。  \n- **深度优先**：❌ 不适用。无专业领域可挖掘。  \n- **时效性要求**：❌ 无时效性需求。  \n- **权威性要求**：❌ 无需权威来源。  \n\n> ✅ **结论**：**无需搜索**。该问题不涉及信息检索，应直接进行**礼貌性对话响应**，而非启动搜索流程。\n\n---\n\n### **3. 初始关键词策略**  \n- **核心关键词提取**：无有效关键词（“你好”“简单”“回应”均为语用词，非语义实体）。  \n- **相关概念扩展**：无扩展价值（如“礼貌回应”“对话开场”等仅为元描述，非搜索目标）。  \n- **搜索语法建议**：❌ 不适用（如 `site:`, `intitle:` 等无法用于无实质主题的语句）。  \n- **排除词建议**：无需排除，因无搜索目标。\n\n> ✅ **结论**：**不建议执行任何关键词搜索**。关键词策略在此场景下无效。\n\n---\n\n### **4. 预期搜索方向**  \n- **主要搜索方向**：**无**。  \n- **备选搜索方向**：  \n  - 搜索“如何回应社交开场白” → 可能获得沟通技巧类文章（但属过度解读）。  \n  - 搜索“AI 如何处理无信息量提问” → 研究人机交互设计（学术性，但偏离用户真实意图）。  \n- **风险提示**：  \n  - **信息缺口风险**：若强行搜索，可能返回无关内容（如“你好”的词典定义、打招呼礼仪指南），误导用户以为系统误解了意图。  \n  - **用户体验风险**：若系统启动复杂搜索流程回应简单问候，会显得机械、不自然，破坏对话流畅性。  \n  - **资源浪费风险**：消耗系统算力与响应时间，无实际收益。\n\n> ✅ **结论**：**最佳响应策略是直接进行自然、礼貌的对话回应**，而非启动任何搜索流程。\n\n---\n\n### ✅ **最终建议：搜索策略总结**\n\n| 维度 | 建议 |\n|------|------|\n| **是否需要搜索？** | ❌ **不需要** |\n| **推荐响应方式** | 直接给予简洁、友好、符合语境的回应，例如：“你好！有什么我可以帮你的吗？” |\n| **后续动作** | 留意用户下一句是否包含真实信息需求，再启动对应搜索策略 |\n| **系统设计提示** | 对此类社交性开场语，应设计“轻量响应模块”，避免误触发搜索引擎 |\n\n> 💡 **核心洞察**：**不是所有用户输入都需要搜索——有时，最好的“搜索”是不搜索，而是回应人性。**\n\n--- \n\n如用户后续提出“你能告诉我什么是量子计算吗？”等实质性问题，再启动事实查询型搜索策略即可。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:44:52.926121 #52044]  INFO -- : Creating worker instance for: pre_search
+I, [2025-12-08T15:44:52.926134 #52044]  INFO -- : Create worker's name is pre_search
+I, [2025-12-08T15:44:52.926144 #52044]  INFO -- : Create Conversation
+I, [2025-12-08T15:44:52.926170 #52044]  INFO -- : Use template pre_search
+I, [2025-12-08T15:44:52.926504 #52044]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:44:52.926530 #52044]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:44:54.426241 #52044]  INFO -- : Successful send a message
+I, [2025-12-08T15:44:54.426311 #52044]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:44:54.426328 #52044]  INFO -- : Worker pre_search executed successfully
+I, [2025-12-08T15:44:55.028366 #52044]  INFO -- : Calling worker: smart_search with params: {:text=>"- 搜索类型1：搜索素材  \n  - [] 无（当前问题为社交开场白，无实质性素材需求）  \n\n- 搜索类型2：查证信息  \n  - [] 无（无任何可查证的陈述或可疑信息）  \n\n- 搜索类型3：解决疑问  \n  - [] 无（用户未提出任何具体疑问）  \n\n- 搜索类型4：深入挖掘  \n  - [] 无（无可用线索进行细节延伸）  \n\n---\n\n✅ **结论**：本问题为纯粹的社交性问候，**无需执行任何搜索任务**。  \n建议响应：**“你好！有什么我可以帮你的吗？”**  \n待用户提出实质性问题后，再启动对应的搜索策略。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:44:55.028473 #52044]  INFO -- : Creating worker instance for: smart_search
+I, [2025-12-08T15:44:55.028488 #52044]  INFO -- : Create worker's name is smart_search
+I, [2025-12-08T15:44:55.028499 #52044]  INFO -- : Create Conversation
+I, [2025-12-08T15:44:55.028549 #52044]  INFO -- : Use template smart_search
+I, [2025-12-08T15:44:55.028782 #52044]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:44:55.028811 #52044]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:44:55.316175 #52044]  INFO -- : Successful send a message
+I, [2025-12-08T15:44:55.316252 #52044]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:44:55.316272 #52044]  INFO -- : Worker smart_search executed successfully
+I, [2025-12-08T15:44:55.316719 #52044]  INFO -- : Calling worker: summary with params: {:text=>"你好，请简单回应一下", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:44:55.316748 #52044]  INFO -- : Creating worker instance for: summary
+I, [2025-12-08T15:44:55.316757 #52044]  INFO -- : Create worker's name is summary
+I, [2025-12-08T15:44:55.316767 #52044]  INFO -- : Create Conversation
+I, [2025-12-08T15:44:55.316788 #52044]  INFO -- : Use template summarize
+I, [2025-12-08T15:44:55.317010 #52044]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:44:55.317035 #52044]  INFO -- : OpenAIAdapter: Using model moonshotai/Kimi-K2-Instruct
+E, [2025-12-08T15:44:55.398321 #52044] ERROR -- : Unexpected error during OpenAI request: the server responded with status 401 for POST http://120.133.75.248:39095/v1/chat/completions
+I, [2025-12-08T15:44:55.398402 #52044]  INFO -- : Successful send a message
+I, [2025-12-08T15:44:55.398422 #52044]  INFO -- : Worker summary executed successfully
+I, [2025-12-08T15:46:33.216122 #52666]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:46:33.216205 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216241 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216248 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216257 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216262 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216269 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216274 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216333 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216354 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216367 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216373 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216389 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216393 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216407 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216411 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216421 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.216426 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.216436 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.285900 #52666]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:46:33.285975 #52666]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:46:33.286403 #52666]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:46:33.286447 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286469 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286474 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286481 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286485 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286492 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286496 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286520 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286525 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286531 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286535 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286541 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286545 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286556 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286560 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286570 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286574 #52666]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:46:33.286583 #52666]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:46:33.286831 #52666]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:46:33.286854 #52666]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:46:35.442417 #52666]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"你好", :with_history=>true}
+I, [2025-12-08T15:46:35.442426 #52666]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:46:35.442434 #52666]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:46:35.442445 #52666]  INFO -- : Create Conversation
+I, [2025-12-08T15:46:35.442474 #52666]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:46:35.442812 #52666]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:46:35.442838 #52666]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:46:44.065406 #52666]  INFO -- : Successful send a message
+I, [2025-12-08T15:46:44.065493 #52666]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:46:44.065518 #52666]  INFO -- : Worker analyze_search_scope executed successfully
+I, [2025-12-08T15:46:44.668122 #52666]  INFO -- : Calling worker: pre_search with params: {:text=>"根据以下分析进行初步搜索：当然可以。以下是针对用户问题“你好”的结构化分析结果，基于您提供的四个维度进行系统化拆解：\n\n---\n\n### **1. 问题类型识别**  \n**类型：非实质性问题 / 社交问候**  \n\n- **判断依据**：  \n  “你好”是一个典型的社交性开场白，不包含具体的信息需求、问题陈述或任务目标。  \n- **排除其他类型**：  \n  - ❌ 事实查询：无具体事实或数据请求  \n  - ❌ 比较分析：无比较对象  \n  - ❌ 深度研究：无学术/技术诉求  \n  - ❌ 解决方案：无问题需要解决  \n  - ❌ 观点收集：无评价或意见需求  \n\n> ✅ **结论**：该问题属于**非实质性社交问候**，不属于传统信息检索范畴。\n\n---\n\n### **2. 搜索范围建议**  \n**建议：无需搜索（或极简响应）**  \n\n- **广度优先**：不适用 —— 无信息缺口需要覆盖  \n- **深度优先**：不适用 —— 无领域可深入  \n- **时效性要求**：无 —— 礼貌性问候无时间敏感性  \n- **权威性要求**：无 —— 不涉及可信度或专业背书  \n\n> ✅ **结论**：**无需启动搜索流程**。系统应识别为问候语并返回礼貌性回应（如：“您好！有什么我可以帮您的吗？”）。\n\n---\n\n### **3. 初始关键词策略**  \n**建议：无需关键词提取或搜索语法应用**  \n\n- **核心关键词提取**：  \n  - “你好” —— 但该词本身是语用表达，非信息性关键词  \n- **相关概念扩展**：  \n  - “问候语”、“社交开场白”、“人机交互礼貌响应”（仅用于系统内部理解，非搜索用途）  \n- **搜索语法建议**：  \n  - 不推荐使用 `site:`, `filetype:`, `intitle:` 等 —— 无搜索目标  \n- **排除词建议**：  \n  - 无 —— 无需排除，因无搜索意图  \n\n> ✅ **结论**：**关键词策略不适用**。若系统需自动处理，可预设“问候语识别”规则，触发默认应答模板。\n\n---\n\n### **4. 预期搜索方向**  \n\n- **主要搜索方向**：  \n  → **无搜索方向**。应触发**对话引导机制**，引导用户提供实质性问题。  \n\n- **备选搜索方向**（仅当系统误判为信息请求时）：  \n  - 搜索“‘你好’的多种语言表达” → 适用于语言学习场景（但用户未表明）  \n  - 搜索“人类与AI交互中的问候策略” → 适用于人机交互研究（但无上下文支持）  \n  > ⚠️ 此类方向属于**过度解读**，仅在明确语境下（如“请用多种语言说‘你好’”）才适用。\n\n- **风险提示（可能的信息缺口）**：  \n  - ✅ **最大风险**：系统误判为真实信息请求，启动无效搜索（如搜索“你好 定义”），返回冗余结果（如字典释义），造成用户体验下降。  \n  - ✅ **次级风险**：若用户后续未补充问题，对话可能陷入僵局，影响交互流畅性。  \n  - ✅ **应对建议**：系统应设计**意图识别层**，对“你好”“hi”“hello”等触发**引导性回复**，而非搜索响应。\n\n---\n\n### ✅ **最终行动建议**  \n\n| 维度 | 建议行动 |\n|------|----------|\n| **系统响应** | 不启动搜索，返回礼貌引导语：**“您好！有什么我可以帮您的吗？”** |\n| **意图识别** | 在NLP模型中增加“社交问候”意图分类，优先触发对话引导而非检索 |\n| **后续优化** | 若用户后续提问，立即切换至对应搜索策略（如事实查询、解决方案等） |\n| **避免错误** | **切勿**对“你好”执行关键词搜索、生成无关结果，以免误导用户 |\n\n---\n\n> 🔍 **总结**：  \n> “你好”不是信息需求，而是**对话启动信号**。最佳策略是**不搜索，而回应**。  \n> 成功的AI交互不在于“能搜索什么”，而在于“知道什么时候不该搜索”。\n\n如您后续提出具体问题（如“如何提高睡眠质量？”），我将立即切换为结构化搜索策略模式。欢迎继续提问！", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:46:44.668244 #52666]  INFO -- : Creating worker instance for: pre_search
+I, [2025-12-08T15:46:44.668258 #52666]  INFO -- : Create worker's name is pre_search
+I, [2025-12-08T15:46:44.668269 #52666]  INFO -- : Create Conversation
+I, [2025-12-08T15:46:44.668301 #52666]  INFO -- : Use template pre_search
+I, [2025-12-08T15:46:44.668786 #52666]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:46:44.668820 #52666]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:46:46.623571 #52666]  INFO -- : Successful send a message
+I, [2025-12-08T15:46:46.623642 #52666]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:46:46.623668 #52666]  INFO -- : Worker pre_search executed successfully
+I, [2025-12-08T15:46:47.225607 #52666]  INFO -- : Calling worker: smart_search with params: {:text=>"- 搜索类型1：搜索素材  \n  - [] 无（用户仅发送“你好”，无实质性内容可作为素材收集）  \n\n- 搜索类型2：查证信息  \n  - [] 无（无任何可查证的陈述、数据或主张）  \n\n- 搜索类型3：解决疑问  \n  - [] 无（无明确疑问或待解问题）  \n\n- 搜索类型4：深入挖掘  \n  - [] 无（无可用线索或上下文进行细节扩展）  \n\n---\n\n### ✅ **最终执行结论**  \n由于用户输入仅为社交问候“你好”，**无信息需求、无查询意图、无潜在线索**，因此**无需启动任何类型的搜索任务**。  \n\n**推荐响应**：  \n> “您好！有什么我可以帮您的吗？无论是技术问题、数据分析，还是研究建议，我随时为您服务。”  \n\n系统应保持轻量交互，避免对非实质性输入触发无效搜索，以提升响应效率与用户体验。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:46:47.225732 #52666]  INFO -- : Creating worker instance for: smart_search
+I, [2025-12-08T15:46:47.225751 #52666]  INFO -- : Create worker's name is smart_search
+I, [2025-12-08T15:46:47.225764 #52666]  INFO -- : Create Conversation
+I, [2025-12-08T15:46:47.225795 #52666]  INFO -- : Use template smart_search
+I, [2025-12-08T15:46:47.226176 #52666]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:46:47.226217 #52666]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:46:47.637346 #52666]  INFO -- : Successful send a message
+I, [2025-12-08T15:46:47.637418 #52666]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:46:47.637435 #52666]  INFO -- : Worker smart_search executed successfully
+I, [2025-12-08T15:46:47.637826 #52666]  INFO -- : Calling worker: summary with params: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:46:47.637850 #52666]  INFO -- : Creating worker instance for: summary
+I, [2025-12-08T15:46:47.637859 #52666]  INFO -- : Create worker's name is summary
+I, [2025-12-08T15:46:47.637872 #52666]  INFO -- : Create Conversation
+I, [2025-12-08T15:46:47.637891 #52666]  INFO -- : Use template summarize
+I, [2025-12-08T15:46:47.638120 #52666]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:46:47.638144 #52666]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:46:52.001203 #52666]  INFO -- : Successful send a message
+I, [2025-12-08T15:46:52.001315 #52666]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:46:52.001336 #52666]  INFO -- : Worker summary executed successfully
+I, [2025-12-08T15:47:57.841305 #53173]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:47:57.841388 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841425 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841431 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841440 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841447 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841456 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841460 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841483 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841495 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841502 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841506 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841512 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841516 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841529 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841534 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841543 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.841547 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.841557 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.900950 #53173]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:47:57.901014 #53173]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:47:57.901385 #53173]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:47:57.901421 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901454 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901462 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901481 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901487 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901494 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901498 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901520 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901525 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901531 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901535 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901541 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901544 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901555 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901559 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901568 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901572 #53173]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:47:57.901581 #53173]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:47:57.901805 #53173]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:47:57.901829 #53173]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:55:27.801487 #54942]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:55:27.801567 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801602 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801608 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801616 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801620 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801627 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801631 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801653 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801658 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801664 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801669 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801675 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801686 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801696 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801702 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801713 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.801717 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.801726 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859318 #54942]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:55:27.859380 #54942]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:55:27.859716 #54942]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:55:27.859754 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859776 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859782 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859789 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859793 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859799 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859803 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859825 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859841 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859852 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859858 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859866 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859870 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859883 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859888 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.859898 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.859902 #54942]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:27.860096 #54942]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:27.860341 #54942]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:55:27.860366 #54942]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:55:44.340727 #55097]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:55:44.340802 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340837 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340842 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340850 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340854 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340861 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340864 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340903 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340920 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340931 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340936 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340944 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340948 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340960 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340964 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340982 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.340986 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.340996 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.408521 #55097]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:55:44.408592 #55097]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:55:44.408912 #55097]  INFO -- : Loading configuration from file: ./config/llm_config.yml
+I, [2025-12-08T15:55:44.408948 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.408968 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.408973 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.408980 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.408984 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.408990 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.408994 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.409014 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.409018 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.409025 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.409029 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.409035 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.409038 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.409048 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.409053 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.409062 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.409066 #55097]  INFO -- : Start create the SmartPrompt LLMAdapter.
+I, [2025-12-08T15:55:44.409075 #55097]  INFO -- : Successful creation an OpenAI client.
+I, [2025-12-08T15:55:44.409335 #55097]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:55:44.409361 #55097]  INFO -- : Started create the SmartPrompt engine.
+I, [2025-12-08T15:55:51.463777 #55097]  INFO -- : Calling worker: analyze_search_scope with params: {:text=>"你好", :with_history=>true}
+I, [2025-12-08T15:55:51.463787 #55097]  INFO -- : Creating worker instance for: analyze_search_scope
+I, [2025-12-08T15:55:51.463796 #55097]  INFO -- : Create worker's name is analyze_search_scope
+I, [2025-12-08T15:55:51.463810 #55097]  INFO -- : Create Conversation
+I, [2025-12-08T15:55:51.463883 #55097]  INFO -- : Use template analyze_search_scope
+I, [2025-12-08T15:55:51.464266 #55097]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:55:51.464301 #55097]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:55:59.874568 #55097]  INFO -- : Successful send a message
+I, [2025-12-08T15:55:59.874674 #55097]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:55:59.874704 #55097]  INFO -- : Worker analyze_search_scope executed successfully
+I, [2025-12-08T15:56:00.477167 #55097]  INFO -- : Calling worker: pre_search with params: {:text=>"根据以下分析进行初步搜索：当然可以。以下是针对用户问题“你好”的结构化分析结果，基于您提供的四个维度进行系统性拆解：\n\n---\n\n### **1. 问题类型识别**  \n**类型：非实质性问题 / 社交问候**  \n\n- **分析**：  \n  “你好”是一个典型的社交性开场白，不包含具体的信息需求、问题或任务目标。它不属于事实查询、比较分析、深度研究、解决方案或观点收集中的任何一类实质性问题。  \n- **判断依据**：  \n  无明确对象、无动词驱动、无宾语或限定条件，属于语用层面的礼貌性表达，常用于开启对话而非寻求答案。\n\n> ✅ **结论**：**非实质性问题（社交问候）** —— 无信息检索需求，需以对话响应为主。\n\n---\n\n### **2. 搜索范围建议**  \n**建议：无需搜索**  \n\n- **广度优先**：不适用 —— 无待查信息  \n- **深度优先**：不适用 —— 无领域可深入  \n- **时效性要求**：无 —— “你好”无时间敏感性  \n- **权威性要求**：无 —— 不涉及事实或权威来源  \n\n> ✅ **结论**：**无需启动任何搜索策略**。用户可能在测试系统响应、开启对话，或误输入。应优先进行对话引导，而非信息检索。\n\n---\n\n### **3. 初始关键词策略**  \n**建议：无需关键词提取或搜索语法**  \n\n- **核心关键词提取**：  \n  “你好” → 无实质语义内容，仅为问候语  \n- **相关概念扩展**：  \n  可扩展为“打招呼方式”“跨文化问候语”“AI应答礼仪”等，但仅当用户后续提出延伸问题时才适用  \n- **搜索语法建议**：  \n  无适用语法（如 site:、filetype: 等）  \n- **排除词建议**：  \n  无需排除，因无搜索行为  \n\n> ✅ **结论**：**当前无有效关键词或搜索语法可用**。若用户意图是开启对话，应转向自然语言回应。\n\n---\n\n### **4. 预期搜索方向**  \n\n- **主要搜索方向**：  \n  **无搜索方向** —— 本问题不构成可搜索的信息请求  \n\n- **备选搜索方向**（若用户意图被误判）：  \n  若假设用户本意为“如何用中文礼貌地打招呼？”或“‘你好’在不同语境中的用法”，则可转向：  \n  - 搜索关键词：`中文礼貌问候语`、`你好 的用法 区别`、`跨文化问候差异`  \n  - 搜索语法建议：`site:zhihu.com \"你好\" 用法` 或 `intitle:\"你好\" 语境`  \n  - 来源优先：知乎、百度知道、语言学论文（如《现代汉语礼貌用语研究》）  \n\n- **风险提示（可能的信息缺口）**：  \n  - **误判风险**：系统可能错误将“你好”识别为事实性问题（如“‘你好’的词源是什么？”），从而浪费资源进行无关搜索  \n  - **用户意图模糊**：用户可能在等待系统主动引导（如“您好！有什么我可以帮您的吗？”），而非期待搜索结果  \n  - **文化差异风险**：在某些语境中，“你好”可能是非母语者尝试使用中文，需避免机械回复，应体现包容性  \n\n> ✅ **结论**：**最安全、最有效的响应是对话式引导**，而非搜索。建议回复：  \n> *“您好！很高兴见到您。有什么我可以帮您的吗？”*\n\n---\n\n### ✅ **最终行动建议**  \n| 维度 | 建议 |\n|------|------|\n| **响应策略** | 不启动搜索，使用自然语言进行礼貌回应与引导 |\n| **后续动作** | 等待用户提出实质性问题，再启动对应搜索策略 |\n| **系统优化提示** | 在AI对话系统中，应设置“问候语识别模块”，自动触发欢迎语而非搜索引擎调用 |\n\n> 🚫 **切勿**：对“你好”执行任何信息检索操作。  \n> ✅ **应做**：以人性化、对话式方式回应，建立信任与互动基础。\n\n--- \n\n如用户后续提出如“如何用Python写一个问候程序？”或“‘你好’在日语中怎么说？”，再启动对应的**事实查询**或**比较分析**搜索策略即可。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:56:00.477360 #55097]  INFO -- : Creating worker instance for: pre_search
+I, [2025-12-08T15:56:00.477382 #55097]  INFO -- : Create worker's name is pre_search
+I, [2025-12-08T15:56:00.477397 #55097]  INFO -- : Create Conversation
+I, [2025-12-08T15:56:00.477434 #55097]  INFO -- : Use template pre_search
+I, [2025-12-08T15:56:00.477982 #55097]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:56:00.478028 #55097]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:56:02.806645 #55097]  INFO -- : Successful send a message
+I, [2025-12-08T15:56:02.806753 #55097]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:56:02.806791 #55097]  INFO -- : Worker pre_search executed successfully
+I, [2025-12-08T15:56:03.409664 #55097]  INFO -- : Calling worker: smart_search with params: {:text=>"- 搜索类型1：搜索素材  \n  - [] 无（用户仅发送“你好”，无实质内容可收集为素材）  \n\n- 搜索类型2：查证信息  \n  - [] 无（无任何可查证的陈述、数据或主张）  \n\n- 搜索类型3：解决疑问  \n  - [] 无（无明确疑问或问题需要解答）  \n\n- 搜索类型4：深入挖掘  \n  - [] 无（无线索、无上下文、无潜在方向可供深入）  \n\n---\n\n### ✅ **最终结论与建议**  \n由于用户输入仅为社交问候语“你好”，**无实质信息需求**，因此**无需执行任何搜索任务**。  \n\n**推荐响应**：  \n> “您好！很高兴为您服务。有什么我可以帮您的吗？无论是技术问题、信息查询，还是需要建议，我都在这里为您支持。”  \n\n**系统优化提示**：  \n在AI对话流程中，应优先识别“问候语模式”，并自动触发欢迎语模板，**避免调用任何搜索工具**，以节省资源、提升响应效率与用户体验。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:56:03.409759 #55097]  INFO -- : Creating worker instance for: smart_search
+I, [2025-12-08T15:56:03.409773 #55097]  INFO -- : Create worker's name is smart_search
+I, [2025-12-08T15:56:03.409784 #55097]  INFO -- : Create Conversation
+I, [2025-12-08T15:56:03.409807 #55097]  INFO -- : Use template smart_search
+I, [2025-12-08T15:56:03.410024 #55097]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:56:03.410053 #55097]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:56:03.875620 #55097]  INFO -- : Successful send a message
+I, [2025-12-08T15:56:03.875715 #55097]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:56:03.875741 #55097]  INFO -- : Worker smart_search executed successfully
+I, [2025-12-08T15:56:03.876357 #55097]  INFO -- : Calling worker: summary with params: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:56:03.876405 #55097]  INFO -- : Creating worker instance for: summary
+I, [2025-12-08T15:56:03.876420 #55097]  INFO -- : Create worker's name is summary
+I, [2025-12-08T15:56:03.876636 #55097]  INFO -- : Create Conversation
+I, [2025-12-08T15:56:03.876694 #55097]  INFO -- : Use template summarize
+I, [2025-12-08T15:56:03.877152 #55097]  INFO -- : OpenAIAdapter: Sending request to OpenAI
+I, [2025-12-08T15:56:03.877202 #55097]  INFO -- : OpenAIAdapter: Using model qwen3-next
+I, [2025-12-08T15:56:06.703008 #55097]  INFO -- : Successful send a message
+I, [2025-12-08T15:56:06.703070 #55097]  INFO -- : OpenAIAdapter: Received response from OpenAI
+I, [2025-12-08T15:56:06.703087 #55097]  INFO -- : Worker summary executed successfully

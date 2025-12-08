@@ -161,3 +161,601 @@ I, [2025-12-08T13:59:12.818152 #26448]  INFO -- : Create agent's name is smarter
 I, [2025-12-08T13:59:12.818168 #26448]  INFO -- : Loading configuration from file: ./config/agent.yml
 I, [2025-12-08T13:59:12.818174 #26448]  INFO -- : Configuration loaded successfully
 I, [2025-12-08T13:59:12.818179 #26448]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T14:43:11.596879 #35911]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T14:43:11.597716 #35911]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T14:43:11.598151 #35911]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T14:43:11.598433 #35911]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T14:43:11.598661 #35911]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T14:43:11.598891 #35911]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T14:43:11.599147 #35911]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T14:43:11.599468 #35911]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T14:43:11.600100 #35911]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T14:43:11.600383 #35911]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T14:43:14.092008 #35911]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T14:43:14.696159 #35911]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:43:14.698883 #35911]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T14:43:14.699573 #35911]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T14:43:14.703624 #35911]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:43:14.704037 #35911]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T14:43:14.704077 #35911]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T14:43:14.704086 #35911]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:43:14.704091 #35911]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T14:44:34.006994 #36306]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T14:44:34.007120 #36306]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T14:44:34.007245 #36306]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T14:44:34.007339 #36306]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T14:44:34.007414 #36306]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T14:44:34.007472 #36306]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T14:44:34.007581 #36306]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T14:44:34.007718 #36306]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T14:44:34.007905 #36306]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T14:44:34.008008 #36306]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T14:44:37.000624 #36306]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T14:44:37.603731 #36306]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:44:37.606435 #36306]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T14:44:37.606703 #36306]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T14:44:37.609642 #36306]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:44:37.611005 #36306]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T14:44:37.611040 #36306]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T14:44:37.611048 #36306]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:44:37.611053 #36306]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T14:45:58.044719 #37122]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T14:45:58.045265 #37122]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T14:45:58.045769 #37122]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T14:45:58.046011 #37122]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T14:45:58.046219 #37122]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T14:45:58.046444 #37122]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T14:45:58.046736 #37122]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T14:45:58.047095 #37122]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T14:45:58.047489 #37122]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T14:45:58.047963 #37122]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T14:46:00.337982 #37122]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T14:46:00.941954 #37122]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:46:00.946986 #37122]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T14:46:00.947541 #37122]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T14:46:00.948724 #37122]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:46:00.949082 #37122]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T14:46:00.949130 #37122]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T14:46:00.949139 #37122]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:46:00.949144 #37122]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T14:46:43.367890 #37356]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T14:46:43.367996 #37356]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T14:46:43.368125 #37356]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T14:46:43.368215 #37356]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T14:46:43.368268 #37356]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T14:46:43.368308 #37356]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T14:46:43.368388 #37356]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T14:46:43.368598 #37356]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T14:46:43.368791 #37356]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T14:46:43.368879 #37356]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T14:46:45.142238 #37356]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T14:46:45.744540 #37356]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:46:45.746670 #37356]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T14:46:45.746914 #37356]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T14:46:45.748395 #37356]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:46:45.748613 #37356]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T14:46:45.748647 #37356]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T14:46:45.748656 #37356]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:46:45.748661 #37356]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T14:48:23.614640 #37862]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T14:48:23.614739 #37862]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T14:48:23.614849 #37862]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T14:48:23.614919 #37862]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T14:48:23.614978 #37862]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T14:48:23.615034 #37862]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T14:48:23.615122 #37862]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T14:48:23.615249 #37862]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T14:48:23.615447 #37862]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T14:48:23.615530 #37862]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T14:48:25.353169 #37862]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T14:48:25.955659 #37862]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:48:25.957745 #37862]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T14:48:25.957982 #37862]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T14:48:25.960510 #37862]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:48:25.961669 #37862]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T14:48:25.961715 #37862]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T14:48:25.961724 #37862]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:48:25.961730 #37862]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T14:51:14.981713 #38567]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T14:51:14.982056 #38567]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T14:51:14.982359 #38567]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T14:51:14.982519 #38567]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T14:51:14.982652 #38567]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T14:51:14.982775 #38567]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T14:51:14.982943 #38567]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T14:51:14.983244 #38567]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T14:51:14.983716 #38567]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T14:51:14.983980 #38567]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T14:51:17.918182 #38567]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T14:51:18.522148 #38567]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:51:18.527738 #38567]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T14:51:18.528343 #38567]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T14:51:18.535208 #38567]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T14:51:18.535752 #38567]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T14:51:18.535800 #38567]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T14:51:18.535809 #38567]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T14:51:18.535814 #38567]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:00:38.614936 #40517]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:00:38.615072 #40517]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:00:38.615173 #40517]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:00:38.615245 #40517]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:00:38.615303 #40517]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:00:38.615342 #40517]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:00:38.615422 #40517]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:00:38.615563 #40517]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:00:38.615983 #40517]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:00:38.616096 #40517]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:00:41.114153 #40517]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:00:41.717237 #40517]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:00:41.719312 #40517]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:00:41.719883 #40517]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:00:41.720916 #40517]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:00:41.721074 #40517]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:00:41.721106 #40517]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:00:41.721114 #40517]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:00:41.721119 #40517]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:01:04.065600 #40712]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:01:04.065706 #40712]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:01:04.065807 #40712]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:01:04.065880 #40712]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:01:04.065939 #40712]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:01:04.065978 #40712]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:01:04.066114 #40712]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:01:04.066257 #40712]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:01:04.066429 #40712]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:01:04.066513 #40712]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:01:05.804377 #40712]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:01:06.407685 #40712]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:01:06.409542 #40712]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:01:06.409720 #40712]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:01:06.410643 #40712]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:01:06.410787 #40712]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:01:06.410818 #40712]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:01:06.410835 #40712]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:01:06.410840 #40712]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:20:15.771077 #44717]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:20:15.771392 #44717]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:20:15.771511 #44717]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:20:15.771583 #44717]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:20:15.771643 #44717]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:20:15.771698 #44717]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:20:15.771808 #44717]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:20:15.772004 #44717]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:20:15.772204 #44717]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:20:15.772305 #44717]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:20:18.117551 #44717]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:20:18.720973 #44717]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:20:18.722410 #44717]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:20:18.722621 #44717]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:20:18.728454 #44717]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:20:18.728649 #44717]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:20:18.728684 #44717]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:20:18.728693 #44717]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:20:18.728698 #44717]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:20:50.637380 #44937]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:20:50.637483 #44937]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:20:50.637587 #44937]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:20:50.637655 #44937]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:20:50.637711 #44937]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:20:50.637765 #44937]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:20:50.637863 #44937]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:20:50.637999 #44937]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:20:50.638183 #44937]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:20:50.638269 #44937]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:20:52.486476 #44937]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:20:53.088503 #44937]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:20:53.089721 #44937]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:20:53.089878 #44937]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:20:53.090805 #44937]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:20:53.091000 #44937]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:20:53.091031 #44937]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:20:53.091040 #44937]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:20:53.091045 #44937]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:22:07.673175 #45489]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:22:07.673294 #45489]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:22:07.673402 #45489]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:22:07.673474 #45489]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:22:07.673534 #45489]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:22:07.673599 #45489]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:22:07.673734 #45489]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:22:07.673880 #45489]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:22:07.674057 #45489]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:22:07.674142 #45489]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:22:09.519966 #45489]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:22:10.122495 #45489]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:22:10.123665 #45489]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:22:10.123854 #45489]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:22:10.125164 #45489]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:22:10.125387 #45489]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:22:10.125433 #45489]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:22:10.125454 #45489]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:22:10.125459 #45489]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:22:19.458141 #45594]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:22:19.458252 #45594]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:22:19.458357 #45594]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:22:19.458447 #45594]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:22:19.458509 #45594]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:22:19.458691 #45594]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:22:19.458795 #45594]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:22:19.458930 #45594]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:22:19.459107 #45594]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:22:19.459192 #45594]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:22:21.007895 #45594]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:22:21.611021 #45594]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:22:21.612186 #45594]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:22:21.612341 #45594]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:22:21.613382 #45594]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:22:21.613584 #45594]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:22:21.613615 #45594]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:22:21.613623 #45594]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:22:21.613628 #45594]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:23:29.675481 #45943]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:23:29.675894 #45943]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:23:29.676015 #45943]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:23:29.676399 #45943]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:23:29.676480 #45943]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:23:29.676748 #45943]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:23:29.676900 #45943]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:23:29.677338 #45943]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:23:29.677543 #45943]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:23:29.677638 #45943]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:23:31.687239 #45943]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:23:32.290570 #45943]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:23:32.292225 #45943]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:23:32.292364 #45943]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:23:32.293292 #45943]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:23:32.293471 #45943]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:23:32.293488 #45943]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:23:32.293494 #45943]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:23:32.293499 #45943]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:26:28.388060 #46748]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:26:28.388697 #46748]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:26:28.389117 #46748]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:26:28.389359 #46748]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:26:28.389549 #46748]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:26:28.389758 #46748]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:26:28.390012 #46748]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:26:28.390303 #46748]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:26:28.390836 #46748]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:26:28.391375 #46748]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:26:29.936484 #46748]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:26:30.540090 #46748]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:26:30.541621 #46748]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:26:30.542030 #46748]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:26:30.543175 #46748]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:26:30.543542 #46748]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:26:30.543585 #46748]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:26:30.543594 #46748]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:26:30.543599 #46748]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:32:01.239443 #48033]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:32:01.239567 #48033]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:32:01.239680 #48033]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:32:01.239751 #48033]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:32:01.239800 #48033]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:32:01.239841 #48033]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:32:01.239943 #48033]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:32:01.240087 #48033]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:32:01.240289 #48033]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:32:01.240423 #48033]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:32:03.470769 #48033]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:32:04.073179 #48033]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:32:04.074307 #48033]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:32:04.074444 #48033]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:32:04.075582 #48033]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:32:04.075740 #48033]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:32:04.075773 #48033]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:32:04.075782 #48033]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:32:04.075788 #48033]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:33:55.989678 #48569]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:33:55.989788 #48569]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:33:55.989899 #48569]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:33:55.989968 #48569]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:33:55.990030 #48569]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:33:55.990089 #48569]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:33:55.990184 #48569]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:33:55.990394 #48569]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:33:55.990667 #48569]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:33:55.990780 #48569]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:33:58.082248 #48569]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:33:58.685169 #48569]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:33:58.686847 #48569]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:33:58.687022 #48569]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:33:58.688080 #48569]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:33:58.688300 #48569]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:33:58.688338 #48569]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:33:58.688347 #48569]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:33:58.688351 #48569]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:33:58.688623 #48569]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:33:58.688653 #48569]  INFO -- : Call Worker params is: {:text=>"hello"}
+I, [2025-12-08T15:34:39.871888 #48769]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:34:39.872057 #48769]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:34:39.872169 #48769]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:34:39.872385 #48769]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:34:39.872499 #48769]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:34:39.872640 #48769]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:34:39.872796 #48769]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:34:39.872962 #48769]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:34:39.873248 #48769]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:34:39.873363 #48769]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:34:41.703168 #48769]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:34:42.305654 #48769]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:34:42.306766 #48769]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:34:42.306920 #48769]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:34:42.307700 #48769]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:34:42.307842 #48769]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:34:42.307876 #48769]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:34:42.307884 #48769]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:34:42.307890 #48769]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:34:42.308207 #48769]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:34:42.308240 #48769]  INFO -- : Call Worker params is: {:text=>"hello"}
+I, [2025-12-08T15:35:34.781366 #49080]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:35:34.781477 #49080]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:35:34.781581 #49080]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:35:34.781656 #49080]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:35:34.781718 #49080]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:35:34.781778 #49080]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:35:34.781873 #49080]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:35:34.782006 #49080]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:35:34.782179 #49080]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:35:34.782264 #49080]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:35:36.584346 #49080]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:35:37.186843 #49080]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:35:37.187969 #49080]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:35:37.188112 #49080]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:35:37.189065 #49080]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:35:37.189332 #49080]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:35:37.189367 #49080]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:35:37.189376 #49080]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:35:37.189382 #49080]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:35:45.334093 #49080]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:35:45.334173 #49080]  INFO -- : Call Worker params is: {:text=>"hello"}
+I, [2025-12-08T15:37:11.815658 #49656]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:37:11.815766 #49656]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:37:11.815871 #49656]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:37:11.815940 #49656]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:37:11.816005 #49656]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:37:11.816064 #49656]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:37:11.816185 #49656]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:37:11.816377 #49656]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:37:11.816709 #49656]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:37:11.816828 #49656]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:37:13.625548 #49656]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:37:14.227479 #49656]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:37:14.228692 #49656]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:37:14.228841 #49656]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:37:14.229728 #49656]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:37:14.229877 #49656]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:37:14.229909 #49656]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:37:14.229918 #49656]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:37:14.229924 #49656]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:37:19.936889 #49656]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:37:19.936968 #49656]  INFO -- : Call Worker params is: {:text=>"hello"}
+I, [2025-12-08T15:37:20.083721 #49656]  INFO -- : Call Worker name is: pre_search
+I, [2025-12-08T15:37:20.083773 #49656]  INFO -- : Call Worker params is: {:text=>"根据以下分析进行初步搜索：Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true}
+I, [2025-12-08T15:37:20.083809 #49656]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:37:20.856955 #49656]  INFO -- : Call Worker name is: smart_search
+I, [2025-12-08T15:37:20.857197 #49656]  INFO -- : Call Worker params is: {:text=>"Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:37:20.857266 #49656]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:37:21.613422 #49656]  INFO -- : Call Worker name is: summary
+I, [2025-12-08T15:37:21.613813 #49656]  INFO -- : Call Worker params is: {:text=>"hello", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:39:42.461126 #50401]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:39:42.461251 #50401]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:39:42.461601 #50401]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:39:42.461690 #50401]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:39:42.461752 #50401]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:39:42.461931 #50401]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:39:42.462092 #50401]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:39:42.462326 #50401]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:39:42.462655 #50401]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:39:42.462820 #50401]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:39:44.429721 #50401]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:39:45.032548 #50401]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:39:45.034159 #50401]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:39:45.034360 #50401]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:39:45.035390 #50401]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:39:45.035612 #50401]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:39:45.035649 #50401]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:39:45.035658 #50401]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:39:45.035663 #50401]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:40:06.494337 #50608]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:40:06.494480 #50608]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:40:06.494600 #50608]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:40:06.494682 #50608]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:40:06.494752 #50608]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:40:06.494815 #50608]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:40:06.494975 #50608]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:40:06.495136 #50608]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:40:06.495374 #50608]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:40:06.495479 #50608]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:40:08.076936 #50608]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:40:08.680037 #50608]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:40:08.681622 #50608]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:40:08.681761 #50608]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:40:08.682675 #50608]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:40:08.682809 #50608]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:40:08.682838 #50608]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:40:08.682846 #50608]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:40:08.682850 #50608]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:41:33.496084 #51011]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:41:33.496206 #51011]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:41:33.496313 #51011]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:41:33.496393 #51011]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:41:33.496457 #51011]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:41:33.496522 #51011]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:41:33.496638 #51011]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:41:33.496785 #51011]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:41:33.496971 #51011]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:41:33.497071 #51011]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:41:35.773174 #51011]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:41:36.375956 #51011]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:41:36.377067 #51011]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:41:36.377226 #51011]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:41:36.378153 #51011]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:41:36.378321 #51011]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:41:36.378351 #51011]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:41:36.378360 #51011]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:41:36.378375 #51011]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:41:36.378671 #51011]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:41:36.378706 #51011]  INFO -- : Call Worker params is: {:text=>"你好"}
+I, [2025-12-08T15:41:36.526500 #51011]  INFO -- : Call Worker name is: pre_search
+I, [2025-12-08T15:41:36.526522 #51011]  INFO -- : Call Worker params is: {:text=>"根据以下分析进行初步搜索：Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true}
+I, [2025-12-08T15:41:36.526550 #51011]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:41:37.295943 #51011]  INFO -- : Call Worker name is: smart_search
+I, [2025-12-08T15:41:37.296180 #51011]  INFO -- : Call Worker params is: {:text=>"Failed to call LLM after 3 attempts: Unexpected error during OpenAI request: the server responded with status 401 for POST https://api.deepseek.com/v1/chat/completions", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:41:37.296249 #51011]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:41:38.050791 #51011]  INFO -- : Call Worker name is: summary
+I, [2025-12-08T15:41:38.050976 #51011]  INFO -- : Call Worker params is: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:43:35.434527 #51610]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:43:35.435123 #51610]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:43:35.435478 #51610]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:43:35.435700 #51610]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:43:35.435934 #51610]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:43:35.436230 #51610]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:43:35.436523 #51610]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:43:35.436891 #51610]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:43:35.437309 #51610]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:43:35.437598 #51610]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:43:37.226628 #51610]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:43:37.829391 #51610]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:43:37.830957 #51610]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:43:37.831328 #51610]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:43:37.832483 #51610]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:43:37.832805 #51610]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:43:37.832846 #51610]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:43:37.832855 #51610]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:43:37.832860 #51610]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:43:37.833111 #51610]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:43:37.833146 #51610]  INFO -- : Call Worker params is: {:text=>"你好"}
+I, [2025-12-08T15:43:45.729748 #51610]  INFO -- : Call Worker name is: pre_search
+I, [2025-12-08T15:43:45.729854 #51610]  INFO -- : Call Worker params is: {:text=>"根据以下分析进行初步搜索：当然可以。以下是针对用户问题“你好”的结构化分析结果，基于您指定的四个维度进行系统性拆解：\n\n---\n\n### **1. 问题类型识别**  \n**类型：非实质性问题 / 礼节性问候**  \n\n- **分析**：  \n  “你好”是一个典型的社交性开场白，不包含具体信息需求、疑问或任务导向。它不具备事实查询、比较分析、深度研究、解决方案或观点收集的特征。  \n- **判断依据**：  \n  - 无名词、动词、数值、比较词或问题词（如“如何”“为什么”“哪个”）  \n  - 语义功能为建立沟通连接，而非获取信息  \n- **结论**：  \n  **不属于任何信息型问题类别**，属于**社交启动语**（Social Initiation Utterance）。\n\n---\n\n### **2. 搜索范围建议**  \n**建议：无需搜索**  \n\n- **广度优先**：不适用 —— 无信息目标  \n- **深度优先**：不适用 —— 无领域可深入  \n- **时效性要求**：无 —— “你好”是永恒性社交表达，无时间敏感性  \n- **权威性要求**：无 —— 不涉及事实或专业判断  \n\n> ✅ **建议行动**：**跳过搜索流程**，直接进行对话响应。若系统需“响应生成”，则应触发社交应答机制而非信息检索。\n\n---\n\n### **3. 初始关键词策略**  \n**建议：无需关键词提取或搜索语法**  \n\n- **核心关键词提取**：  \n  - “你好” → 仅有一个词，无语义歧义，无需拆分  \n- **相关概念扩展**：  \n  - 可能扩展为“问候语”“社交开场白”“中文打招呼方式”，但这些仅用于**语言学研究**，非用户真实意图  \n- **搜索语法建议**：  \n  - 无适用语法（如 `site:`, `filetype:` 等均无意义）  \n- **排除词建议**：  \n  - 无需排除，因无搜索目标  \n\n> ⚠️ 若强行搜索“你好”，可能返回：  \n> - 中文教学网站（教外国人说“你好”）  \n> - 语音识别系统测试用例  \n> - 人工智能聊天机器人训练数据  \n> —— **这些是元信息，非用户意图**\n\n---\n\n### **4. 预期搜索方向**  \n\n| 维度 | 内容 |\n|------|------|\n| **主要搜索方向** | **无** —— 用户未提出信息需求 |\n| **备选搜索方向** | 若系统误判为“语言学习”需求，可尝试：<br> - “中文日常问候语”<br> - “你好 的英文对应词”<br> - “不同文化中的打招呼方式”<br>（但需用户进一步明确意图） |\n| **风险提示** | **严重信息缺口风险**：<br> - 若系统自动启动搜索，可能返回无关内容（如“你好 世界”编程示例、语音助手教程）<br> - 误判为“事实查询”将导致**虚假相关性**，降低用户信任<br> - 建议系统应能识别**非信息性语句**，并优先触发**社交响应**而非搜索引擎 |\n\n---\n\n### ✅ **最终行动建议（为后续交互提供指导）**\n\n> **不要启动任何搜索流程**。  \n> **应直接回应社交问候**，例如：  \n> “你好！有什么我可以帮你的吗？”  \n>   \n> **系统设计建议**：  \n> - 建立“社交语句识别模块”，优先过滤“你好”“嗨”“在吗”等启动语  \n> - 在识别为社交语句后，**主动引导用户提出真实需求**  \n> - 避免对无信息意图的语句进行“过度搜索”，防止资源浪费与体验下降  \n\n---\n\n**总结**：  \n“你好”不是信息问题，而是**沟通启动信号**。最佳策略是**不搜索、响应、引导**。  \n后续应等待用户提出实质性问题，再启动对应搜索策略。\n\n如需后续分析“我想知道如何学习Python”等真实问题，请随时提供！", :with_history=>true}
+I, [2025-12-08T15:43:45.729924 #51610]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:43:50.498313 #51610]  INFO -- : Call Worker name is: smart_search
+I, [2025-12-08T15:43:50.498527 #51610]  INFO -- : Call Worker params is: {:text=>"由于用户输入仅为社交性问候“你好”，经分析确认为**非信息性语句**，无实质问题、无查询意图、无数据需求，因此：\n\n### ✅ **最终结论：无需执行任何搜索任务**\n\n所有四类搜索任务（搜索素材、查证信息、解决疑问、深入挖掘）均**不适用**，理由如下：\n\n- **搜索素材**：无目标信息可收集，无内容可汇总  \n- **查证信息**：无可疑陈述或事实主张需验证  \n- **解决疑问**：无明确疑问句或问题点  \n- **深入挖掘**：无线索、无上下文、无潜在方向可供延伸  \n\n---\n\n### 📌 **建议行动方案（非搜索类）**\n\n> **系统应触发社交响应机制，而非搜索流程**：  \n> **响应建议**：  \n> “你好！👋 很高兴为你服务。有什么我可以帮你的吗？比如你想了解技术趋势、比较开源项目，还是需要学习资源？随时告诉我～”\n\n---\n\n### ⚠️ **风险提示（系统设计层面）**\n\n若系统强制为“你好”生成搜索任务，将导致：\n- 资源浪费（调用无意义API）\n- 响应质量下降（返回无关结果如“你好世界”编程示例）\n- 用户体验受损（误判意图引发困惑）\n\n---\n\n### ✅ **推荐优化策略**\n\n| 类别 | 建议 |\n|------|------|\n| **对话管理** | 增设“社交语句识别器”，识别“你好”“嗨”“在吗”等，自动跳过搜索 |\n| **引导机制** | 在回应问候后，主动提供3个常见问题模板（如“想了解Python生态？”“比较GitHub和Gitee？”“查某个开源项目的活跃度？”） |\n| **性能优化** | 避免为非信息性语句调用 `smart_search`、`get_open_digger_metric` 等高成本工具 |\n\n---\n\n**综上，当前无任何搜索任务需要执行。**  \n请用户提供具体问题，我们将立即启动精准搜索策略。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:43:50.498583 #51610]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:43:51.380246 #51610]  INFO -- : Call Worker name is: summary
+I, [2025-12-08T15:43:51.380406 #51610]  INFO -- : Call Worker params is: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:44:43.235192 #52044]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:44:43.235310 #52044]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:44:43.235416 #52044]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:44:43.235487 #52044]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:44:43.235544 #52044]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:44:43.235600 #52044]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:44:43.235691 #52044]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:44:43.235826 #52044]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:44:43.236001 #52044]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:44:43.236097 #52044]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:44:44.807764 #52044]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:44:45.409916 #52044]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:44:45.411182 #52044]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:44:45.411323 #52044]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:44:45.412127 #52044]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:44:45.412334 #52044]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:44:45.412367 #52044]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:44:45.412376 #52044]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:44:45.412381 #52044]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:44:45.412616 #52044]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:44:45.412651 #52044]  INFO -- : Call Worker params is: {:text=>"你好，请简单回应一下"}
+I, [2025-12-08T15:44:52.323743 #52044]  INFO -- : Call Worker name is: pre_search
+I, [2025-12-08T15:44:52.323848 #52044]  INFO -- : Call Worker params is: {:text=>"根据以下分析进行初步搜索：当然可以。以下是对用户问题“你好，请简单回应一下”的结构化分析：\n\n---\n\n### **1. 问题类型识别**  \n**类型：社交礼仪型 / 无实质信息需求**  \n\n- 该问题不属于传统意义上的信息查询类型（如事实、比较、研究、解决方案或观点收集）。  \n- 本质为**社交开场白**，无具体信息诉求，仅期望获得礼貌性回应。  \n- 在AI交互语境中，此类问题常用于测试响应能力、建立对话氛围，或作为后续真实问题的铺垫。  \n\n> ✅ **结论**：**非信息型问题**（不属于上述五类中的任何一类），属于**人际互动模拟**范畴。\n\n---\n\n### **2. 搜索范围建议**  \n- **广度优先**：❌ 不适用。无具体主题可覆盖。  \n- **深度优先**：❌ 不适用。无专业领域可挖掘。  \n- **时效性要求**：❌ 无时效性需求。  \n- **权威性要求**：❌ 无需权威来源。  \n\n> ✅ **结论**：**无需搜索**。该问题不涉及信息检索，应直接进行**礼貌性对话响应**，而非启动搜索流程。\n\n---\n\n### **3. 初始关键词策略**  \n- **核心关键词提取**：无有效关键词（“你好”“简单”“回应”均为语用词，非语义实体）。  \n- **相关概念扩展**：无扩展价值（如“礼貌回应”“对话开场”等仅为元描述，非搜索目标）。  \n- **搜索语法建议**：❌ 不适用（如 `site:`, `intitle:` 等无法用于无实质主题的语句）。  \n- **排除词建议**：无需排除，因无搜索目标。\n\n> ✅ **结论**：**不建议执行任何关键词搜索**。关键词策略在此场景下无效。\n\n---\n\n### **4. 预期搜索方向**  \n- **主要搜索方向**：**无**。  \n- **备选搜索方向**：  \n  - 搜索“如何回应社交开场白” → 可能获得沟通技巧类文章（但属过度解读）。  \n  - 搜索“AI 如何处理无信息量提问” → 研究人机交互设计（学术性，但偏离用户真实意图）。  \n- **风险提示**：  \n  - **信息缺口风险**：若强行搜索，可能返回无关内容（如“你好”的词典定义、打招呼礼仪指南），误导用户以为系统误解了意图。  \n  - **用户体验风险**：若系统启动复杂搜索流程回应简单问候，会显得机械、不自然，破坏对话流畅性。  \n  - **资源浪费风险**：消耗系统算力与响应时间，无实际收益。\n\n> ✅ **结论**：**最佳响应策略是直接进行自然、礼貌的对话回应**，而非启动任何搜索流程。\n\n---\n\n### ✅ **最终建议：搜索策略总结**\n\n| 维度 | 建议 |\n|------|------|\n| **是否需要搜索？** | ❌ **不需要** |\n| **推荐响应方式** | 直接给予简洁、友好、符合语境的回应，例如：“你好！有什么我可以帮你的吗？” |\n| **后续动作** | 留意用户下一句是否包含真实信息需求，再启动对应搜索策略 |\n| **系统设计提示** | 对此类社交性开场语，应设计“轻量响应模块”，避免误触发搜索引擎 |\n\n> 💡 **核心洞察**：**不是所有用户输入都需要搜索——有时，最好的“搜索”是不搜索，而是回应人性。**\n\n--- \n\n如用户后续提出“你能告诉我什么是量子计算吗？”等实质性问题，再启动事实查询型搜索策略即可。", :with_history=>true}
+I, [2025-12-08T15:44:52.323903 #52044]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:44:54.426382 #52044]  INFO -- : Call Worker name is: smart_search
+I, [2025-12-08T15:44:54.426552 #52044]  INFO -- : Call Worker params is: {:text=>"- 搜索类型1：搜索素材  \n  - [] 无（当前问题为社交开场白，无实质性素材需求）  \n\n- 搜索类型2：查证信息  \n  - [] 无（无任何可查证的陈述或可疑信息）  \n\n- 搜索类型3：解决疑问  \n  - [] 无（用户未提出任何具体疑问）  \n\n- 搜索类型4：深入挖掘  \n  - [] 无（无可用线索进行细节延伸）  \n\n---\n\n✅ **结论**：本问题为纯粹的社交性问候，**无需执行任何搜索任务**。  \n建议响应：**“你好！有什么我可以帮你的吗？”**  \n待用户提出实质性问题后，再启动对应的搜索策略。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:44:54.426605 #52044]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:44:55.316324 #52044]  INFO -- : Call Worker name is: summary
+I, [2025-12-08T15:44:55.316530 #52044]  INFO -- : Call Worker params is: {:text=>"你好，请简单回应一下", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:46:33.287071 #52666]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:46:33.287194 #52666]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:46:33.287299 #52666]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:46:33.287371 #52666]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:46:33.287429 #52666]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:46:33.287485 #52666]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:46:33.287582 #52666]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:46:33.287725 #52666]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:46:33.287909 #52666]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:46:33.288041 #52666]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:46:34.837274 #52666]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:46:35.439614 #52666]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:46:35.440866 #52666]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:46:35.441027 #52666]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:46:35.441917 #52666]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:46:35.442140 #52666]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:46:35.442174 #52666]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:46:35.442182 #52666]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:46:35.442188 #52666]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:46:35.442367 #52666]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:46:35.442400 #52666]  INFO -- : Call Worker params is: {:text=>"你好"}
+I, [2025-12-08T15:46:44.065601 #52666]  INFO -- : Call Worker name is: pre_search
+I, [2025-12-08T15:46:44.065685 #52666]  INFO -- : Call Worker params is: {:text=>"根据以下分析进行初步搜索：当然可以。以下是针对用户问题“你好”的结构化分析结果，基于您提供的四个维度进行系统化拆解：\n\n---\n\n### **1. 问题类型识别**  \n**类型：非实质性问题 / 社交问候**  \n\n- **判断依据**：  \n  “你好”是一个典型的社交性开场白，不包含具体的信息需求、问题陈述或任务目标。  \n- **排除其他类型**：  \n  - ❌ 事实查询：无具体事实或数据请求  \n  - ❌ 比较分析：无比较对象  \n  - ❌ 深度研究：无学术/技术诉求  \n  - ❌ 解决方案：无问题需要解决  \n  - ❌ 观点收集：无评价或意见需求  \n\n> ✅ **结论**：该问题属于**非实质性社交问候**，不属于传统信息检索范畴。\n\n---\n\n### **2. 搜索范围建议**  \n**建议：无需搜索（或极简响应）**  \n\n- **广度优先**：不适用 —— 无信息缺口需要覆盖  \n- **深度优先**：不适用 —— 无领域可深入  \n- **时效性要求**：无 —— 礼貌性问候无时间敏感性  \n- **权威性要求**：无 —— 不涉及可信度或专业背书  \n\n> ✅ **结论**：**无需启动搜索流程**。系统应识别为问候语并返回礼貌性回应（如：“您好！有什么我可以帮您的吗？”）。\n\n---\n\n### **3. 初始关键词策略**  \n**建议：无需关键词提取或搜索语法应用**  \n\n- **核心关键词提取**：  \n  - “你好” —— 但该词本身是语用表达，非信息性关键词  \n- **相关概念扩展**：  \n  - “问候语”、“社交开场白”、“人机交互礼貌响应”（仅用于系统内部理解，非搜索用途）  \n- **搜索语法建议**：  \n  - 不推荐使用 `site:`, `filetype:`, `intitle:` 等 —— 无搜索目标  \n- **排除词建议**：  \n  - 无 —— 无需排除，因无搜索意图  \n\n> ✅ **结论**：**关键词策略不适用**。若系统需自动处理，可预设“问候语识别”规则，触发默认应答模板。\n\n---\n\n### **4. 预期搜索方向**  \n\n- **主要搜索方向**：  \n  → **无搜索方向**。应触发**对话引导机制**，引导用户提供实质性问题。  \n\n- **备选搜索方向**（仅当系统误判为信息请求时）：  \n  - 搜索“‘你好’的多种语言表达” → 适用于语言学习场景（但用户未表明）  \n  - 搜索“人类与AI交互中的问候策略” → 适用于人机交互研究（但无上下文支持）  \n  > ⚠️ 此类方向属于**过度解读**，仅在明确语境下（如“请用多种语言说‘你好’”）才适用。\n\n- **风险提示（可能的信息缺口）**：  \n  - ✅ **最大风险**：系统误判为真实信息请求，启动无效搜索（如搜索“你好 定义”），返回冗余结果（如字典释义），造成用户体验下降。  \n  - ✅ **次级风险**：若用户后续未补充问题，对话可能陷入僵局，影响交互流畅性。  \n  - ✅ **应对建议**：系统应设计**意图识别层**，对“你好”“hi”“hello”等触发**引导性回复**，而非搜索响应。\n\n---\n\n### ✅ **最终行动建议**  \n\n| 维度 | 建议行动 |\n|------|----------|\n| **系统响应** | 不启动搜索，返回礼貌引导语：**“您好！有什么我可以帮您的吗？”** |\n| **意图识别** | 在NLP模型中增加“社交问候”意图分类，优先触发对话引导而非检索 |\n| **后续优化** | 若用户后续提问，立即切换至对应搜索策略（如事实查询、解决方案等） |\n| **避免错误** | **切勿**对“你好”执行关键词搜索、生成无关结果，以免误导用户 |\n\n---\n\n> 🔍 **总结**：  \n> “你好”不是信息需求，而是**对话启动信号**。最佳策略是**不搜索，而回应**。  \n> 成功的AI交互不在于“能搜索什么”，而在于“知道什么时候不该搜索”。\n\n如您后续提出具体问题（如“如何提高睡眠质量？”），我将立即切换为结构化搜索策略模式。欢迎继续提问！", :with_history=>true}
+I, [2025-12-08T15:46:44.065747 #52666]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:46:46.623731 #52666]  INFO -- : Call Worker name is: smart_search
+I, [2025-12-08T15:46:46.623898 #52666]  INFO -- : Call Worker params is: {:text=>"- 搜索类型1：搜索素材  \n  - [] 无（用户仅发送“你好”，无实质性内容可作为素材收集）  \n\n- 搜索类型2：查证信息  \n  - [] 无（无任何可查证的陈述、数据或主张）  \n\n- 搜索类型3：解决疑问  \n  - [] 无（无明确疑问或待解问题）  \n\n- 搜索类型4：深入挖掘  \n  - [] 无（无可用线索或上下文进行细节扩展）  \n\n---\n\n### ✅ **最终执行结论**  \n由于用户输入仅为社交问候“你好”，**无信息需求、无查询意图、无潜在线索**，因此**无需启动任何类型的搜索任务**。  \n\n**推荐响应**：  \n> “您好！有什么我可以帮您的吗？无论是技术问题、数据分析，还是研究建议，我随时为您服务。”  \n\n系统应保持轻量交互，避免对非实质性输入触发无效搜索，以提升响应效率与用户体验。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:46:46.623944 #52666]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:46:47.637479 #52666]  INFO -- : Call Worker name is: summary
+I, [2025-12-08T15:46:47.637665 #52666]  INFO -- : Call Worker params is: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:47:57.902057 #53173]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:47:57.902177 #53173]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:47:57.902268 #53173]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:47:57.902520 #53173]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:47:57.902596 #53173]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:47:57.902657 #53173]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:47:57.902756 #53173]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:47:57.902897 #53173]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:47:57.903080 #53173]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:47:57.903178 #53173]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:47:59.683299 #53173]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:48:00.286103 #53173]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:48:00.288778 #53173]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:48:00.289039 #53173]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:48:00.293046 #53173]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:48:00.294527 #53173]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:48:00.294570 #53173]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:48:00.294578 #53173]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:48:00.294583 #53173]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:55:27.860548 #54942]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:55:27.860730 #54942]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:55:27.860840 #54942]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:55:27.860909 #54942]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:55:27.860966 #54942]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:55:27.861021 #54942]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:55:27.861183 #54942]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:55:27.861354 #54942]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:55:27.861715 #54942]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:55:27.861869 #54942]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:55:29.922643 #54942]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:55:30.525457 #54942]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:55:30.526644 #54942]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:55:30.526795 #54942]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:55:30.530206 #54942]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:55:30.531964 #54942]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:55:30.532029 #54942]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:55:30.532039 #54942]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:55:30.532045 #54942]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:55:44.409553 #55097]  INFO -- : Create tool's name is create_or_update_source_document_and_section
+I, [2025-12-08T15:55:44.409661 #55097]  INFO -- : Create tool's name is create_research_topic
+I, [2025-12-08T15:55:44.409774 #55097]  INFO -- : Create tool's name is get_code
+I, [2025-12-08T15:55:44.409859 #55097]  INFO -- : Create tool's name is get_research_topics
+I, [2025-12-08T15:55:44.409917 #55097]  INFO -- : Create tool's name is get_sum
+I, [2025-12-08T15:55:44.409976 #55097]  INFO -- : Create tool's name is get_weather
+I, [2025-12-08T15:55:44.410088 #55097]  INFO -- : Create tool's name is meta_scrape
+I, [2025-12-08T15:55:44.410265 #55097]  INFO -- : Create tool's name is modify_file
+I, [2025-12-08T15:55:44.410453 #55097]  INFO -- : Create tool's name is smart_search
+I, [2025-12-08T15:55:44.410548 #55097]  INFO -- : Create mcp server's name is all_in_one
+I, [2025-12-08T15:55:46.637339 #55097]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:55:47.239810 #55097]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:55:47.241323 #55097]  INFO -- : Create agent's name is smart_kb
+I, [2025-12-08T15:55:47.241470 #55097]  INFO -- : Create agent's name is smart_search
+I, [2025-12-08T15:55:47.242406 #55097]  INFO -- : Create agent's name is smart_writer
+I, [2025-12-08T15:55:47.242601 #55097]  INFO -- : Create agent's name is smarter_search
+I, [2025-12-08T15:55:47.242631 #55097]  INFO -- : Loading configuration from file: ./config/agent.yml
+I, [2025-12-08T15:55:47.242639 #55097]  INFO -- : Configuration loaded successfully
+I, [2025-12-08T15:55:47.242644 #55097]  INFO -- : Started create the SmartAgent engine.
+I, [2025-12-08T15:55:51.463656 #55097]  INFO -- : Call Worker name is: analyze_search_scope
+I, [2025-12-08T15:55:51.463754 #55097]  INFO -- : Call Worker params is: {:text=>"你好"}
+I, [2025-12-08T15:55:59.874809 #55097]  INFO -- : Call Worker name is: pre_search
+I, [2025-12-08T15:55:59.874948 #55097]  INFO -- : Call Worker params is: {:text=>"根据以下分析进行初步搜索：当然可以。以下是针对用户问题“你好”的结构化分析结果，基于您提供的四个维度进行系统性拆解：\n\n---\n\n### **1. 问题类型识别**  \n**类型：非实质性问题 / 社交问候**  \n\n- **分析**：  \n  “你好”是一个典型的社交性开场白，不包含具体的信息需求、问题或任务目标。它不属于事实查询、比较分析、深度研究、解决方案或观点收集中的任何一类实质性问题。  \n- **判断依据**：  \n  无明确对象、无动词驱动、无宾语或限定条件，属于语用层面的礼貌性表达，常用于开启对话而非寻求答案。\n\n> ✅ **结论**：**非实质性问题（社交问候）** —— 无信息检索需求，需以对话响应为主。\n\n---\n\n### **2. 搜索范围建议**  \n**建议：无需搜索**  \n\n- **广度优先**：不适用 —— 无待查信息  \n- **深度优先**：不适用 —— 无领域可深入  \n- **时效性要求**：无 —— “你好”无时间敏感性  \n- **权威性要求**：无 —— 不涉及事实或权威来源  \n\n> ✅ **结论**：**无需启动任何搜索策略**。用户可能在测试系统响应、开启对话，或误输入。应优先进行对话引导，而非信息检索。\n\n---\n\n### **3. 初始关键词策略**  \n**建议：无需关键词提取或搜索语法**  \n\n- **核心关键词提取**：  \n  “你好” → 无实质语义内容，仅为问候语  \n- **相关概念扩展**：  \n  可扩展为“打招呼方式”“跨文化问候语”“AI应答礼仪”等，但仅当用户后续提出延伸问题时才适用  \n- **搜索语法建议**：  \n  无适用语法（如 site:、filetype: 等）  \n- **排除词建议**：  \n  无需排除，因无搜索行为  \n\n> ✅ **结论**：**当前无有效关键词或搜索语法可用**。若用户意图是开启对话，应转向自然语言回应。\n\n---\n\n### **4. 预期搜索方向**  \n\n- **主要搜索方向**：  \n  **无搜索方向** —— 本问题不构成可搜索的信息请求  \n\n- **备选搜索方向**（若用户意图被误判）：  \n  若假设用户本意为“如何用中文礼貌地打招呼？”或“‘你好’在不同语境中的用法”，则可转向：  \n  - 搜索关键词：`中文礼貌问候语`、`你好 的用法 区别`、`跨文化问候差异`  \n  - 搜索语法建议：`site:zhihu.com \"你好\" 用法` 或 `intitle:\"你好\" 语境`  \n  - 来源优先：知乎、百度知道、语言学论文（如《现代汉语礼貌用语研究》）  \n\n- **风险提示（可能的信息缺口）**：  \n  - **误判风险**：系统可能错误将“你好”识别为事实性问题（如“‘你好’的词源是什么？”），从而浪费资源进行无关搜索  \n  - **用户意图模糊**：用户可能在等待系统主动引导（如“您好！有什么我可以帮您的吗？”），而非期待搜索结果  \n  - **文化差异风险**：在某些语境中，“你好”可能是非母语者尝试使用中文，需避免机械回复，应体现包容性  \n\n> ✅ **结论**：**最安全、最有效的响应是对话式引导**，而非搜索。建议回复：  \n> *“您好！很高兴见到您。有什么我可以帮您的吗？”*\n\n---\n\n### ✅ **最终行动建议**  \n| 维度 | 建议 |\n|------|------|\n| **响应策略** | 不启动搜索，使用自然语言进行礼貌回应与引导 |\n| **后续动作** | 等待用户提出实质性问题，再启动对应搜索策略 |\n| **系统优化提示** | 在AI对话系统中，应设置“问候语识别模块”，自动触发欢迎语而非搜索引擎调用 |\n\n> 🚫 **切勿**：对“你好”执行任何信息检索操作。  \n> ✅ **应做**：以人性化、对话式方式回应，建立信任与互动基础。\n\n--- \n\n如用户后续提出如“如何用Python写一个问候程序？”或“‘你好’在日语中怎么说？”，再启动对应的**事实查询**或**比较分析**搜索策略即可。", :with_history=>true}
+I, [2025-12-08T15:55:59.875043 #55097]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:56:02.806862 #55097]  INFO -- : Call Worker name is: smart_search
+I, [2025-12-08T15:56:02.807106 #55097]  INFO -- : Call Worker params is: {:text=>"- 搜索类型1：搜索素材  \n  - [] 无（用户仅发送“你好”，无实质内容可收集为素材）  \n\n- 搜索类型2：查证信息  \n  - [] 无（无任何可查证的陈述、数据或主张）  \n\n- 搜索类型3：解决疑问  \n  - [] 无（无明确疑问或问题需要解答）  \n\n- 搜索类型4：深入挖掘  \n  - [] 无（无线索、无上下文、无潜在方向可供深入）  \n\n---\n\n### ✅ **最终结论与建议**  \n由于用户输入仅为社交问候语“你好”，**无实质信息需求**，因此**无需执行任何搜索任务**。  \n\n**推荐响应**：  \n> “您好！很高兴为您服务。有什么我可以帮您的吗？无论是技术问题、信息查询，还是需要建议，我都在这里为您支持。”  \n\n**系统优化提示**：  \n在AI对话流程中，应优先识别“问候语模式”，并自动触发欢迎语模板，**避免调用任何搜索工具**，以节省资源、提升响应效率与用户体验。", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}
+I, [2025-12-08T15:56:02.807165 #55097]  INFO -- : Create mcp server's name is opendigger
+I, [2025-12-08T15:56:03.875803 #55097]  INFO -- : Call Worker name is: summary
+I, [2025-12-08T15:56:03.876040 #55097]  INFO -- : Call Worker params is: {:text=>"你好", :with_history=>true, :tools=>[{:type=>"function", :function=>{:name=>:smart_search, :description=>"能够调用其他搜索工具，完成复杂的深入搜索。在搜索完成后，还会将结果存入知识库", :parameters=>{:type=>"object", :properties=>{:q=>{:type=>:string, :description=>"搜索关键词"}}, :required=>[:q]}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metric", "description"=>"Get single metric data from OpenDigger with enhanced error handling", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>"Platform of the repo or user (GitHub, Gitee).", "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>"What is the entity of the metric (Repo, User).", "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>"The owner name of the repo to get a metric data."}, "repo"=>{:type=>"string", :description=>"The repo name of the repo to get a metric data."}, "login"=>{:type=>"string", :description=>"The user login to get a metric data of a user."}, "metricName"=>{:type=>"string", :description=>"The metric name to get the data.", "enum"=>["openrank", "stars", "forks", "participants", "contributors", "issues_new", "issues_closed", "change_requests", "pull_requests", "pull_requests_accepted", "issue_comments", "commits", "activity", "technical_fork", "bus_factor", "releases", "inactive_contributors", "pull_requests_merged", "issue_response_time", "maintainer_count", "code_change_lines", "community_activity", "developer_network"]}}}}}, {:type=>"function", :function=>{"name"=>"get_open_digger_metrics_batch", "description"=>"Batch fetch multiple OpenDigger metrics with intelligent processing", "parameters"=>{"type"=>"object", "required"=>["requests"], "properties"=>{"requests"=>{:type=>"array", :description=>"Batch of up to 20 requests"}}}}}, {:type=>"function", :function=>{"name"=>"compare_repositories", "description"=>"Compare multiple repositories across key metrics with intelligent analysis", "parameters"=>{"type"=>"object", "required"=>["repositories"], "properties"=>{"repositories"=>{:type=>"array", :description=>"2-5 repositories to compare"}, "metrics"=>{:type=>"array", :description=>"Metrics to compare (default: openrank, stars, contributors)"}}}}}, {:type=>"function", :function=>{"name"=>"analyze_trends", "description"=>"Perform comprehensive trend analysis on metrics over time", "parameters"=>{"type"=>"object", "required"=>["platform", "entityType", "metricName"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "entityType"=>{:type=>"string", :description=>nil, "enum"=>["Repo", "User"]}, "owner"=>{:type=>"string", :description=>nil}, "repo"=>{:type=>"string", :description=>nil}, "login"=>{:type=>"string", :description=>nil}, "metricName"=>{:type=>"string", :description=>nil, "enum"=>["openrank", "stars", "forks", "contributors", "participants"]}, "timeRange"=>{:type=>"string", :description=>"Time range for trend analysis", "enum"=>["6m", "1y", "2y", "3y"]}}}}}, {:type=>"function", :function=>{"name"=>"get_ecosystem_insights", "description"=>"Get ecosystem-level insights for languages, topics, or organizations", "parameters"=>{"type"=>"object", "required"=>["platform", "category", "value"], "properties"=>{"platform"=>{:type=>"string", :description=>nil, "enum"=>["GitHub", "Gitee"]}, "category"=>{:type=>"string", :description=>"Type of ecosystem analysis", "enum"=>["language", "topic", "organization"]}, "value"=>{:type=>"string", :description=>"Language name, topic, or organization to analyze"}, "limit"=>{:type=>"number", :description=>"Number of top results to return (default: 10)"}}}}}, {:type=>"function", :function=>{"name"=>"server_health", "description"=>"Get server health status, cache statistics, and performance metrics", "parameters"=>{"type"=>"object", "required"=>[], "properties"=>{"includeCache"=>{:type=>"boolean", :description=>"Include cache statistics in response"}, "includePerfMetrics"=>{:type=>"boolean", :description=>"Include performance metrics"}}}}}]}

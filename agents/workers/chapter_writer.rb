@@ -1,6 +1,6 @@
 SmartPrompt.define_worker :chapter_writer do
-  use "SiliconFlow"
-  model "moonshotai/Kimi-K2-Instruct"
+  use "isyscore"
+  model "qwen3-next"
   #use "shengsuanyun"
   #model "moonshot/kimi-k2"
   #use "Aliyun"

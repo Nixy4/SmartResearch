@@ -5,8 +5,8 @@ SmartPrompt.define_worker :get_tags do
   #model "deepseek-chat"
   #use "shengsuanyun"
   #model "deepseek/deepseek-v3"
-  use "Aliyun"
-  model "qwen-flash"
+  use "isyscore"
+  model "qwen3-next"
   #use "ollama"
   #model "qwen3"
   params[:lang] = "简体中文" unless params[:lang]
