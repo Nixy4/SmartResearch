@@ -1,15 +1,5 @@
 #!/usr/bin/env ruby
 
-# 确保在正确的目录中
-Dir.chdir(File.dirname(File.dirname(File.expand_path(__FILE__))))
+require_relative '../lib/smart_research_cli'
 
-# 尝试设置 bundle 环境
-begin
-  require 'bundler/setup'
-rescue LoadError
-  # 如果没有 bundler，继续正常加载
-end
-
-require './lib/smart_research_cli'
-
-SmartResearch::SimpleCLI.start(ARGV)
+SmartResearchCLI::CLI.start(ARGV)

@@ -1,6 +1,7 @@
 SmartPrompt::Worker.define :get_topic do
   #use "SiliconFlow"
-  use "Aliyun"
+  #use "Aliyun"
+  use "isyscore"
   model "qwen3-next"
   sys_msg "你能帮我处理各种文本内容，并给我简洁但是有效的结果。"
   prompt :get_topic, {

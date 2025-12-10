@@ -24,6 +24,7 @@ module SmartResearch
       reasoned = false
       agent = @agent_engine.agents[agent_name]
       SmartResearch.logger.info("agent is: #{agent_name}")
+      #* 注册<响应中>事件回调
       agent.on_reasoning do |chunk|
         unless chunk.dig("choices", 0, "delta", "reasoning_content").empty?
           reasoned = true
@@ -37,6 +38,7 @@ module SmartResearch
           end
         end
       end
+      #* 注册<响应内容>事件回调
       agent.on_content do |chunk|
         unless chunk.dig("choices", 0, "delta", "content").empty?
           if reasoning == true
@@ -56,6 +58,7 @@ module SmartResearch
           end
         end
       end
+      #* 注册<工具调用>事件回调
       agent.on_tool_call do |msg|
         if msg[:status] == :start
           content_panel.content += RubyRich::AnsiCode.color(:cyan, true) + "Call:" + RubyRich::AnsiCode.reset + "\n"
@@ -65,17 +68,18 @@ module SmartResearch
           # content_panel.content += RubyRich::AnsiCode.color(:cyan, true) + msg[:content].to_s + "\n" + RubyRich::AnsiCode.reset
         end
       end
+      #* 注册<日志记录>事件回调
       agent.on_logging do |msg|
         content_panel.content += RubyRich::AnsiCode.color(:cyan, true) + msg + RubyRich::AnsiCode.reset + "\n"
       end
       agent.please(input_text)
       content_panel.content += "\n"
     end
-
+    # 清空对话历史
     def clear_history_messages
       @engine.clear_history_messages
     end
-
+    # 获取对话标题
     def get_conversation_name(content)
       return @engine.call_worker(:get_conversation_name, { content: content })
     end

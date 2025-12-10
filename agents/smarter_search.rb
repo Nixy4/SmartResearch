@@ -33,10 +33,11 @@ SmartAgent.define :smarter_search do
   result = call_worker(:summary, params, with_tools: false, with_history: true)
   show_log("搜索结果总结完成")
 
+  # 第六步：如果需要，进行最终总结
   if result.call_tools
     call_tools(result)
     result = call_worker(:summary, params, with_tools: false, with_history: true)
-    show_log("")
+    show_log("最终总结完成")
   end
 
   result.content
