@@ -27,7 +27,7 @@ module SmartAgent
   end
   
   class AgentContext
-    # 添加show_log方法
+    #! 添加show_log方法
     def show_log(message)
       # 通过tool_call事件处理器发送日志消息
       if @agent.processor(:tool_call)
@@ -36,7 +36,7 @@ module SmartAgent
       SmartAgent.logger.info(message)
     end
     
-    # 增强的 JSON 解析方法
+    #! 增强的 JSON 解析方法
     def safe_parse(input)
       return input if input.is_a?(Hash) || input.is_a?(Array)
       return {} if input.nil? || input.strip.empty?
@@ -73,7 +73,7 @@ module SmartAgent
       end
     end
     
-    # 重写 call_tools 方法以确保参数正确解析
+    #! 重写 call_tools 方法以确保参数正确解析
     def call_tools(result)
       @agent.processor(:tool_call).call({ :status => :start }) if @agent.processor(:tool_call)
       SmartAgent.logger.info("call tools: " + result.to_s)
@@ -138,7 +138,7 @@ module SmartAgent
       return results
     end
     
-    # 重写call_worker方法以修复stream_response bug
+    #! 重写call_worker方法以修复stream_response bug
     def call_worker(name, params, with_tools: true, with_history: false)
       @agent.processor(:worker).call({ :status => :start, :name => name }) if @agent.processor(:worker)
       SmartAgent.logger.info("Call Worker name is: #{name}")
