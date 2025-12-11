@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/smart_research_gui'
+
+# 启动GUI应用
+app = SmartResearch::Gui::Application.new
+app.launch

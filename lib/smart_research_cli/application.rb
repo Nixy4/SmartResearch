@@ -239,7 +239,7 @@ module SmartResearchCLI
 
     def setup_logger
       FileUtils.mkdir_p(@log_path)
-      log_file = "#{@log_path}/cli_app.log"
+      log_file = "#{@log_path}/app.log"
       SmartResearchCLI.logger = Logger.new(log_file)
       SmartResearchCLI.logger.level = Logger::INFO
     end
@@ -267,20 +267,20 @@ module SmartResearchCLI
     end
 
     def print_tools_start
-      puts "\e[31m>>> [Tools Start] Calling tools...\e[0m"
+      puts "\e\n[31m>>> [Tools Start] Calling tools...\e[0m"
     end
 
     def print_tools_end
-      puts "\e[31m<<< [Tools End] Tools execution completed\e[0m"
+      puts "\e\n[31m<<< [Tools End] Tools execution completed\e[0m"
     end
 
     def print_worker_start(name)
-      puts "\e[31m>>> [Worker Start] Calling worker: #{name}\e[0m"
+      puts "\e\n[31m>>> [Worker Start] Calling worker: #{name}\e[0m"
     end
 
     def print_worker_end(name, stream = false)
       suffix = stream ? " (stream)" : ""
-      puts "\e[31m<<< [Worker End] Worker completed: #{name}#{suffix}\e[0m"
+      puts "\e\n[31m<<< [Worker End] Worker completed: #{name}#{suffix}\e[0m"
     end
 
     def show_help

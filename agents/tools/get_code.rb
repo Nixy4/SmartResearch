@@ -12,7 +12,7 @@ SmartAgent::Tool.define :get_code do
     else
       code += "\n" + input_params["name"] + "(" + input_params["input_params"] + ")"
     end
-    SmartResearchCLI.logger.info "GetCode is: #{code}"
+    SmartAgent.logger.info "GetCode is: #{code}"
     "通过生成的代码:\n #{code} \n得到了结果: #{eval(code)}"
   end
 end

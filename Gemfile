@@ -29,3 +29,5 @@ gem "pdf-reader"
 
 # For handling DOCX files
 gem "docx"
+
+gem "glimmer-dsl-libui", "~> 0.5.7"
