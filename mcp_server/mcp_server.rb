@@ -8,9 +8,8 @@ require 'fileutils'
 # 加载SmartResearch库
 require_relative '../lib/smart_research_cli'
 
-
 # 日志器配置
-log_dir = '/home/nix/SmartResearch/log'
+log_dir = '../log'
 Dir.mkdir(log_dir) unless Dir.exist?(log_dir)
 log_file = File.join(log_dir, 'server.log')
 file_logger = Logger.new(log_file, 'daily')
@@ -42,15 +41,15 @@ if ARGV.include?('--daemon') || ARGV.include?('-d')
 	LOGGER.info("MCP服务器以守护进程模式启动，PID: #{Process.pid}")
 	
 	# 将PID写入文件
-	pid_file = '/home/nix/SmartResearch/mcp_server/mcp_server.pid'
+	pid_file = './mcp_server.pid'
 	File.write(pid_file, Process.pid)
 end
 
 # 初始化SmartResearch应用
 begin
 	app = SmartResearchCLI::Application.new(
-		config_path: '/home/nix/SmartResearch/config',
-		log_path: '/home/nix/SmartResearch/log'
+		config_path: '../config',
+		log_path: '../log'
 	)
 	LOGGER.info("SmartResearch应用初始化成功")
 rescue => e
@@ -133,14 +132,14 @@ end
 trap('INT') { 
 	server.shutdown
 	# 删除PID文件
-	pid_file = '/home/nix/SmartResearch/mcp_server/mcp_server.pid'
+	pid_file = './mcp_server.pid'
 	File.delete(pid_file) if File.exist?(pid_file)
 }
 
 trap('TERM') {
 	server.shutdown
 	# 删除PID文件
-	pid_file = '/home/nix/SmartResearch/mcp_server/mcp_server.pid'
+	pid_file = './mcp_server.pid'
 	File.delete(pid_file) if File.exist?(pid_file)
 }
 
