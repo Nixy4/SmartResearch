@@ -269,7 +269,7 @@ SmartAgent.define :smart_writer do
     end
   elsif input.downcase == "format"
     if File.exist?("reports/outline.json")
-      format("reports/outline.json")
+      format_article("reports/outline.json")
     else
       show_log "提纲文件不存在"
     end
@@ -417,7 +417,7 @@ def renote_content(result, all_footnotes)
   content
 end
 
-def format(json_file)
+def format_article(json_file)
   outline = JSON.parse(File.read(json_file))
   markdown_file = "reports/" + outline["article"]["file"]
   new_markdown_file = markdown_file.gsub(".md", ".new.md")

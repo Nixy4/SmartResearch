@@ -15,6 +15,7 @@ gem "better_prompt"
 gem "rouge"
 gem "rdbg"
 gem "smart_agent"
+gem "webrick"
 
 gem "brotli", "~> 0.7.0"
 
