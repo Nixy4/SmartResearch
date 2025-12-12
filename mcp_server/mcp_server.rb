@@ -94,7 +94,7 @@ server.mount_proc '/mcp/tool_call' do |req, res|
 			end
 			
       if agent_name == 'smart_kb'
-        message = "ask" + message
+        message = "ask " + message
       end
 
       LOGGER.info("模式: #{mode}, Agent: #{agent_name}, 消息: #{message}")
