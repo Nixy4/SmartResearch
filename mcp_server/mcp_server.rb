@@ -93,8 +93,12 @@ server.mount_proc '/mcp/tool_call' do |req, res|
 				'smart_writer'
 			end
 			
-			LOGGER.info("模式: #{mode}, Agent: #{agent_name}, 消息: #{message}")
-			
+      if agent_name == 'smart_kb'
+        message = "ask" + message
+      end
+
+      LOGGER.info("模式: #{mode}, Agent: #{agent_name}, 消息: #{message}")
+
 			# 实际调用SmartResearch应用
 			agent_result = if app
 				begin
