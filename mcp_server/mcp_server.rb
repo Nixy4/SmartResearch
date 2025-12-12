@@ -76,7 +76,7 @@ server.mount_proc '/mcp/tool_call' do |req, res|
 	if req.request_method == 'POST'
 		begin
 			data = JSON.parse(req.body)
-			mode = data['mode'] || 'chat'  # chat, ask, write
+			mode = data['mode']
 			message = data['message']
 			
 			# 验证参数
